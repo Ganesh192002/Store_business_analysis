@@ -1,0 +1,501 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,First Name,Last Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,CA-2021-536137,2022-04-17,2022-04-22,Standard Class,C-1202,Jesse,Singleton,Home Office,United States,Port Carl,New Mexico,55322,East,P-35012,Technology,Accessories,Accessories - Bar,915.32,6,0.3,88.45
+2,CA-2022-960155,2023-06-14,2023-06-24,Second Class,C-7956,Mary,Livingston,Consumer,United States,Gibsonfurt,Texas,04483,West,P-65481,Office Supplies,Binders,Binders - Seven,475.37,3,0.4,85.73
+3,CA-2018-449486,2024-06-11,2024-06-15,Standard Class,C-6084,Billy,Richards,Corporate,United States,New Philiphaven,Wisconsin,32930,East,P-61709,Technology,Accessories,Accessories - Single,966.36,6,0.4,-102.65
+4,CA-2016-890581,2023-08-23,2023-08-27,First Class,C-7612,Michael,Obrien,Consumer,United States,North Kevinbury,Washington,64886,East,P-83259,Office Supplies,Art,Art - Personal,1417.07,2,0.3,123.62
+5,CA-2016-910563,2025-08-06,2025-08-10,Same Day,C-2876,Carly,Moreno,Consumer,United States,North Laurenborough,Louisiana,38591,Central,P-65101,Furniture,Furnishings,Furnishings - Matter,26.87,5,0.3,6.71
+6,CA-2023-566411,2020-11-14,2020-11-22,Standard Class,C-2895,Paul,Ross,Consumer,United States,Onealland,Texas,87008,East,P-38657,Technology,Phones,Phones - Ground,1273.96,6,0.4,125.91
+7,CA-2023-399551,2021-01-13,2021-01-17,Same Day,C-1504,Christine,Olson,Consumer,United States,Sloanshire,West Virginia,98714,Central,P-98576,Office Supplies,Appliances,Appliances - Political,597.46,7,0.4,152.29
+8,CA-2017-684300,2024-06-26,2024-07-05,Second Class,C-1095,James,Garza,Home Office,United States,Rileyshire,South Dakota,75267,Central,P-42990,Office Supplies,Binders,Binders - Church,1545.62,10,0.0,34.19
+9,CA-2017-713730,2023-10-02,2023-10-11,Second Class,C-2604,Alexander,Beard,Consumer,United States,Stevenland,Arizona,19469,East,P-86640,Furniture,Chairs,Chairs - Understand,809.79,1,0.3,-106.28
+10,CA-2016-425557,2022-06-03,2022-06-06,First Class,C-6211,Michael,Allen,Consumer,United States,Port Kevin,Idaho,93926,West,P-36759,Office Supplies,Binders,Binders - This,1700.7,1,0.1,315.82
+11,CA-2015-915774,2023-06-26,2023-06-30,Standard Class,C-3030,Donald,Coleman,Home Office,United States,Christinefurt,Illinois,55517,Central,P-23166,Office Supplies,Art,Art - Head,29.76,9,0.4,9.41
+12,CA-2018-706876,2022-06-05,2022-06-13,Second Class,C-6859,Mikayla,Taylor,Home Office,United States,South Malikhaven,Alabama,00767,East,P-58833,Furniture,Bookcases,Bookcases - Style,937.64,4,0.4,5.19
+13,CA-2019-218762,2021-06-19,2021-06-26,First Class,C-4960,Alejandra,Davis,Corporate,United States,Bethanyfort,Rhode Island,25521,West,P-66227,Office Supplies,Binders,Binders - Yard,605.88,6,0.4,15.13
+14,CA-2023-362865,2021-07-03,2021-07-05,Standard Class,C-7723,Melissa,Perry,Home Office,United States,New Joan,South Dakota,82512,East,P-75855,Technology,Phones,Phones - At,1046.07,7,0.2,97.5
+15,CA-2016-786474,2024-10-24,2024-11-01,Same Day,C-7542,Andre,Hansen,Corporate,United States,Jamesport,Montana,60979,East,P-43945,Technology,Phones,Phones - Cause,1481.52,1,0.2,-36.82
+16,CA-2015-884031,2022-05-04,2022-05-13,Standard Class,C-5189,Taylor,Garcia,Consumer,United States,West Robert,Massachusetts,34509,South,P-63133,Furniture,Furnishings,Furnishings - Hear,1922.59,9,0.3,324.77
+17,CA-2023-607395,2023-03-28,2023-03-31,Standard Class,C-6893,Kevin,David,Home Office,United States,Thomasmouth,Nebraska,95369,South,P-12181,Office Supplies,Binders,Binders - Single,379.51,3,0.4,23.13
+18,CA-2023-309284,2024-07-26,2024-07-31,First Class,C-6383,Ashley,Walsh,Corporate,United States,Collinsstad,New Hampshire,29556,Central,P-89683,Furniture,Bookcases,Bookcases - People,1831.0,5,0.1,525.3
+19,CA-2016-977193,2022-10-29,2022-11-01,Standard Class,C-4085,Julie,Chang,Corporate,United States,Curryborough,Ohio,93207,South,P-50832,Technology,Accessories,Accessories - Air,1130.04,3,0.2,-151.89
+20,CA-2016-439321,2025-09-10,2025-09-15,Same Day,C-1193,Nicholas,Kramer,Corporate,United States,Port Roger,Ohio,90859,East,P-27596,Office Supplies,Binders,Binders - Image,568.82,4,0.0,196.6
+21,CA-2023-183386,2023-01-27,2023-02-06,Same Day,C-3437,Maria,Olson,Consumer,United States,Patrickchester,California,76379,East,P-43884,Furniture,Furnishings,Furnishings - Model,331.28,7,0.1,-35.27
+22,CA-2021-279810,2020-11-12,2020-11-21,Standard Class,C-4826,Jennifer,Lewis,Consumer,United States,East Walterville,Iowa,89982,Central,P-74535,Office Supplies,Appliances,Appliances - Firm,579.57,6,0.0,-44.37
+23,CA-2022-926746,2021-02-21,2021-03-01,Standard Class,C-8257,Sharon,Vaughn,Corporate,United States,Foxshire,Vermont,31797,West,P-55900,Furniture,Bookcases,Bookcases - She,1751.56,10,0.0,282.58
+24,CA-2017-748385,2025-06-12,2025-06-15,First Class,C-2567,Felicia,Brown,Consumer,United States,North Fred,California,76598,South,P-39592,Office Supplies,Appliances,Appliances - Decide,581.23,1,0.1,101.29
+25,CA-2019-794228,2023-06-12,2023-06-19,First Class,C-7812,Jill,Brown,Corporate,United States,Zamorafurt,South Carolina,40509,West,P-24778,Furniture,Furnishings,Furnishings - Member,190.82,3,0.4,-11.28
+26,CA-2018-619898,2023-07-10,2023-07-16,First Class,C-9109,Sharon,Lee,Corporate,United States,Port Brianna,Texas,62619,East,P-47245,Furniture,Tables,Tables - Year,1468.63,2,0.2,351.92
+27,CA-2023-323056,2021-07-03,2021-07-13,First Class,C-7571,Brittany,Tucker,Consumer,United States,South Tiffanyfurt,Wyoming,30950,Central,P-25451,Office Supplies,Storage,Storage - Receive,144.78,8,0.2,39.98
+28,CA-2021-695040,2024-10-13,2024-10-17,Same Day,C-7204,Cesar,Ayala,Home Office,United States,West Melanie,Pennsylvania,39849,West,P-66514,Technology,Accessories,Accessories - Professional,220.13,10,0.1,3.19
+29,CA-2018-517829,2024-02-23,2024-02-25,Second Class,C-3647,Deborah,Ward,Consumer,United States,East Kathleenport,New Mexico,72885,East,P-82699,Office Supplies,Art,Art - Address,1046.61,10,0.4,288.18
+30,CA-2022-639794,2024-02-17,2024-02-23,Same Day,C-2915,Matthew,Clark,Consumer,United States,New Ryanchester,Maryland,54626,Central,P-65049,Furniture,Chairs,Chairs - Should,636.2,9,0.1,174.34
+31,CA-2017-174143,2023-02-07,2023-02-13,Same Day,C-2989,Veronica,Macdonald,Corporate,United States,Banksmouth,South Dakota,41557,South,P-17843,Furniture,Bookcases,Bookcases - Word,629.76,8,0.0,67.55
+32,CA-2021-746255,2022-05-05,2022-05-11,First Class,C-4636,Paula,Clarke,Consumer,United States,Steventon,Maryland,28062,Central,P-24375,Technology,Phones,Phones - Color,1667.17,6,0.3,-208.97
+33,CA-2018-322589,2023-12-09,2023-12-19,First Class,C-8426,Nicole,Kennedy,Home Office,United States,East Robin,Maryland,42518,East,P-87429,Furniture,Chairs,Chairs - Home,557.29,4,0.4,146.3
+34,CA-2019-810664,2022-02-12,2022-02-16,Standard Class,C-7678,Travis,Maldonado,Home Office,United States,New Carrieview,Vermont,97270,East,P-77878,Technology,Phones,Phones - Central,910.99,8,0.4,74.56
+35,CA-2019-157248,2020-09-29,2020-10-06,Same Day,C-3303,William,Castro,Consumer,United States,Katherinehaven,Texas,29018,South,P-10014,Office Supplies,Paper,Paper - Up,1864.38,9,0.0,-206.64
+36,CA-2015-133511,2021-07-15,2021-07-25,Standard Class,C-2337,Gabrielle,Nielsen,Consumer,United States,North Todd,Maine,52142,East,P-96391,Office Supplies,Storage,Storage - Continue,151.43,6,0.0,-8.18
+37,CA-2016-468897,2021-06-03,2021-06-06,Second Class,C-8890,Amber,Aguilar,Consumer,United States,Lake Kurtmouth,Nebraska,94905,West,P-74380,Technology,Accessories,Accessories - Cold,1975.62,8,0.1,-258.18
+38,CA-2020-497560,2021-09-14,2021-09-20,Same Day,C-5399,David,Williams,Consumer,United States,Thompsonfurt,Tennessee,19346,Central,P-86408,Furniture,Furnishings,Furnishings - Her,362.46,8,0.4,-16.59
+39,CA-2016-291723,2020-12-15,2020-12-17,First Class,C-5620,Brian,Garza,Consumer,United States,Port Darrenfurt,West Virginia,80699,South,P-75860,Technology,Machines,Machines - Effort,1655.51,2,0.1,475.83
+40,CA-2021-647714,2021-12-16,2021-12-18,Same Day,C-8560,Matthew,Marsh,Consumer,United States,Ashleyburgh,Massachusetts,54061,Central,P-17114,Office Supplies,Art,Art - Model,1662.37,5,0.4,458.88
+41,CA-2023-184698,2021-10-11,2021-10-20,Second Class,C-1552,Rachel,Moses,Home Office,United States,South Steven,Minnesota,60622,West,P-51034,Technology,Accessories,Accessories - Staff,1844.75,6,0.4,459.16
+42,CA-2017-374983,2022-03-24,2022-04-01,Same Day,C-9045,Dylan,Bates,Consumer,United States,Jessetown,Nebraska,47659,South,P-45464,Technology,Machines,Machines - Clear,1239.7,1,0.4,110.89
+43,CA-2021-727489,2020-12-06,2020-12-13,Second Class,C-3258,Michael,Campbell,Home Office,United States,Margaretmouth,Pennsylvania,39345,South,P-42083,Office Supplies,Paper,Paper - Lose,1414.68,7,0.4,-78.41
+44,CA-2015-446297,2022-08-08,2022-08-09,Same Day,C-8129,Dana,Maddox,Home Office,United States,Thompsonton,Ohio,47761,West,P-78948,Office Supplies,Appliances,Appliances - Establish,873.86,9,0.4,67.7
+45,CA-2023-805576,2024-08-01,2024-08-09,Standard Class,C-2179,Michael,Hill,Consumer,United States,Port Aprilmouth,North Carolina,84401,South,P-47310,Office Supplies,Storage,Storage - Once,831.02,10,0.2,-32.94
+46,CA-2021-134550,2024-08-08,2024-08-11,Standard Class,C-3888,Kristen,Davis,Corporate,United States,New Alejandro,Georgia,25012,East,P-29038,Furniture,Tables,Tables - Name,386.25,1,0.2,57.08
+47,CA-2021-283983,2024-06-08,2024-06-13,First Class,C-9991,Tyler,Ward,Consumer,United States,South Jackson,Delaware,13181,West,P-86102,Technology,Accessories,Accessories - Official,1981.34,1,0.4,325.68
+48,CA-2017-142009,2023-08-05,2023-08-15,Second Class,C-5520,Brandi,Sanders,Corporate,United States,Jasonchester,South Carolina,43700,South,P-82072,Technology,Copiers,Copiers - Far,135.45,10,0.1,27.23
+49,CA-2015-109394,2020-09-21,2020-10-01,Same Day,C-2800,Clayton,Peterson,Consumer,United States,Port Victoria,Maryland,89457,West,P-93737,Furniture,Tables,Tables - Act,262.73,10,0.2,54.4
+50,CA-2022-446893,2023-10-04,2023-10-09,First Class,C-7515,Matthew,Barnes,Consumer,United States,Port James,Washington,01887,East,P-83826,Office Supplies,Art,Art - Break,1790.89,3,0.3,50.82
+51,CA-2016-945339,2025-06-29,2025-07-03,First Class,C-2139,John,Avery,Home Office,United States,West Shawnport,Kentucky,02295,Central,P-14188,Office Supplies,Paper,Paper - Finally,882.33,9,0.2,0.71
+52,CA-2018-284731,2022-09-15,2022-09-25,Same Day,C-4536,Edward,Buck,Consumer,United States,North Cynthia,Missouri,65458,South,P-35469,Office Supplies,Appliances,Appliances - Record,559.51,5,0.4,-77.63
+53,CA-2015-979144,2021-11-18,2021-11-23,Second Class,C-3153,Joseph,Murray,Consumer,United States,East Richardburgh,California,65448,West,P-49761,Office Supplies,Appliances,Appliances - Address,47.89,5,0.0,3.77
+54,CA-2023-390809,2022-09-03,2022-09-11,First Class,C-7391,David,Rivera,Consumer,United States,Jasontown,New Jersey,15836,Central,P-99196,Office Supplies,Storage,Storage - Ago,1798.78,8,0.1,214.82
+55,CA-2017-421311,2025-09-10,2025-09-17,Same Day,C-2249,Michael,Pearson,Consumer,United States,Port Jason,Mississippi,33895,South,P-69738,Office Supplies,Storage,Storage - Wrong,66.49,3,0.3,10.24
+56,CA-2019-381858,2021-10-25,2021-11-04,Second Class,C-4984,Danielle,Mcdaniel,Home Office,United States,Jodiburgh,Texas,28468,East,P-12815,Office Supplies,Binders,Binders - Now,1946.44,8,0.0,194.08
+57,CA-2022-158660,2021-11-18,2021-11-23,Same Day,C-5299,Kathryn,Burnett,Corporate,United States,East Bethside,Delaware,23307,West,P-53657,Technology,Machines,Machines - Coach,453.75,4,0.4,-39.41
+58,CA-2023-705679,2021-02-22,2021-02-28,First Class,C-3742,Heather,Rodriguez,Corporate,United States,Frostberg,New Jersey,13604,Central,P-66601,Furniture,Tables,Tables - Might,1612.12,3,0.0,35.8
+59,CA-2020-720241,2023-08-11,2023-08-21,First Class,C-8490,Mary,Walton,Corporate,United States,Christophermouth,Utah,35693,East,P-69203,Technology,Accessories,Accessories - Statement,1513.82,2,0.3,13.76
+60,CA-2018-882788,2024-04-18,2024-04-21,Same Day,C-6711,Olivia,Sanders,Corporate,United States,Lake Shannonmouth,Florida,71565,West,P-12684,Office Supplies,Paper,Paper - Front,701.79,1,0.0,159.33
+61,CA-2018-559027,2024-04-21,2024-04-26,First Class,C-1754,Katherine,Tyler,Corporate,United States,North Marymouth,Iowa,65219,West,P-55382,Office Supplies,Appliances,Appliances - Such,1625.18,8,0.4,55.03
+62,CA-2017-418004,2021-04-02,2021-04-09,First Class,C-2876,Tiffany,Lynch,Home Office,United States,East Amanda,Hawaii,88819,East,P-55188,Technology,Accessories,Accessories - Animal,96.72,4,0.2,15.85
+63,CA-2017-793195,2021-01-27,2021-02-01,Standard Class,C-4415,Monica,Hunter,Home Office,United States,Port Jorgebury,Maine,74649,East,P-38370,Office Supplies,Appliances,Appliances - Prepare,441.91,2,0.4,95.38
+64,CA-2022-309228,2024-08-07,2024-08-11,First Class,C-6905,Morgan,Nelson,Consumer,United States,Meganmouth,Rhode Island,58280,South,P-18586,Furniture,Bookcases,Bookcases - Trial,1934.93,6,0.0,468.43
+65,CA-2020-661504,2023-05-20,2023-05-27,First Class,C-5089,Briana,Pollard,Consumer,United States,Carrillomouth,Virginia,26930,East,P-21003,Office Supplies,Binders,Binders - Know,1372.04,6,0.2,188.13
+66,CA-2019-491770,2021-06-16,2021-06-24,Same Day,C-8325,Allison,Cooper,Consumer,United States,Collinsville,Georgia,39507,East,P-12896,Technology,Phones,Phones - Cup,195.83,7,0.3,53.89
+67,CA-2021-884050,2024-03-02,2024-03-05,Standard Class,C-9889,Kaitlin,Doyle,Home Office,United States,Campbellport,Texas,04746,Central,P-83691,Furniture,Furnishings,Furnishings - Soldier,114.68,2,0.1,18.44
+68,CA-2021-740377,2022-07-29,2022-07-30,Same Day,C-2417,Karla,Davenport,Corporate,United States,Port Amberstad,South Carolina,56136,West,P-25599,Furniture,Furnishings,Furnishings - Wish,1846.47,2,0.1,383.03
+69,CA-2022-307982,2024-09-13,2024-09-16,Second Class,C-4436,Cindy,Sutton,Home Office,United States,West Jennifer,South Dakota,85141,South,P-67483,Technology,Phones,Phones - Single,1931.16,8,0.0,456.71
+70,CA-2018-510569,2025-04-19,2025-04-24,Second Class,C-9004,Billy,Chang,Corporate,United States,East Teresa,Nebraska,22943,South,P-58372,Office Supplies,Storage,Storage - Expert,356.48,4,0.0,-13.81
+71,CA-2022-545707,2021-10-15,2021-10-25,Second Class,C-7519,Timothy,Williams,Home Office,United States,East Julie,Hawaii,42860,South,P-54965,Office Supplies,Binders,Binders - Lose,1290.56,4,0.1,-116.25
+72,CA-2022-807899,2025-03-14,2025-03-16,Second Class,C-1738,Meghan,Kim,Corporate,United States,Dawsonville,Delaware,65326,South,P-98249,Furniture,Tables,Tables - Beyond,1346.94,6,0.2,-82.4
+73,CA-2020-542600,2021-05-28,2021-06-02,Same Day,C-1181,Dennis,Marshall,Corporate,United States,Michelleburgh,Texas,36651,Central,P-98472,Technology,Accessories,Accessories - Relationship,578.84,1,0.4,124.76
+74,CA-2015-215696,2023-07-25,2023-07-29,Standard Class,C-3399,Joseph,Ball,Home Office,United States,West Traciborough,Colorado,98746,West,P-24931,Furniture,Chairs,Chairs - Job,116.23,2,0.0,5.52
+75,CA-2023-947170,2023-08-08,2023-08-15,Second Class,C-9190,Regina,Gonzales,Home Office,United States,Nicholasfort,Delaware,72772,East,P-76067,Office Supplies,Art,Art - Purpose,1625.24,2,0.3,100.77
+76,CA-2022-508508,2022-09-18,2022-09-21,First Class,C-9299,Chelsea,Harris,Consumer,United States,Richardburgh,Indiana,78158,East,P-96878,Furniture,Furnishings,Furnishings - As,506.39,10,0.3,135.57
+77,CA-2022-420196,2023-02-21,2023-03-01,Same Day,C-1084,David,Torres,Home Office,United States,South Peterburgh,Virginia,80430,East,P-45619,Furniture,Furnishings,Furnishings - Party,1153.88,7,0.0,88.36
+78,CA-2023-249786,2022-11-06,2022-11-11,Same Day,C-6772,Sarah,Howell,Home Office,United States,Stephenburgh,Rhode Island,08518,West,P-22805,Furniture,Tables,Tables - Community,26.0,10,0.0,8.69
+79,CA-2020-377390,2022-06-10,2022-06-18,Standard Class,C-6439,Rachel,Reynolds,Home Office,United States,Lake Michael,Mississippi,67473,South,P-23606,Furniture,Bookcases,Bookcases - Agency,132.97,4,0.0,-12.56
+80,CA-2018-260803,2023-07-28,2023-08-03,First Class,C-3393,David,Daugherty,Consumer,United States,South Nicole,South Carolina,51318,Central,P-72965,Furniture,Furnishings,Furnishings - Especially,209.63,7,0.1,53.55
+81,CA-2019-603939,2022-08-03,2022-08-08,Standard Class,C-5655,Chris,Smith,Home Office,United States,New Anne,Virginia,83189,South,P-36915,Technology,Phones,Phones - Decide,41.84,5,0.4,11.97
+82,CA-2017-972366,2021-01-11,2021-01-21,Same Day,C-7863,Tyler,Dunn,Corporate,United States,Clarkberg,Illinois,96445,East,P-89837,Furniture,Bookcases,Bookcases - Country,27.43,3,0.2,5.36
+83,CA-2019-322110,2021-10-10,2021-10-14,First Class,C-3251,Lisa,Whitney,Home Office,United States,Jefferyville,Georgia,05848,South,P-40076,Office Supplies,Appliances,Appliances - Two,1714.85,2,0.4,63.5
+84,CA-2022-960455,2021-09-12,2021-09-18,Second Class,C-7998,Larry,Mendez,Consumer,United States,Port Mackenzieview,Delaware,77934,East,P-97904,Furniture,Bookcases,Bookcases - Choice,969.63,3,0.2,38.96
+85,CA-2023-868156,2024-11-24,2024-12-02,Second Class,C-6346,Kylie,Duncan,Corporate,United States,Riversfurt,Virginia,78145,Central,P-59337,Office Supplies,Storage,Storage - Position,1459.22,3,0.2,204.84
+86,CA-2015-180790,2022-02-24,2022-03-02,Second Class,C-9964,William,James,Home Office,United States,Reevesberg,Alabama,79495,Central,P-78289,Furniture,Furnishings,Furnishings - Because,1595.9,1,0.4,225.5
+87,CA-2016-274047,2023-02-16,2023-02-17,First Class,C-9088,Kevin,Garcia,Corporate,United States,Harmonbury,Montana,85549,South,P-33055,Technology,Phones,Phones - Season,1211.67,7,0.4,307.56
+88,CA-2016-702538,2024-11-28,2024-12-02,Standard Class,C-7965,Sarah,Boyd,Home Office,United States,Loganmouth,Nebraska,04773,East,P-93962,Furniture,Tables,Tables - International,1043.93,4,0.0,-61.47
+89,CA-2021-616447,2022-07-26,2022-08-03,Second Class,C-7795,Dana,Fleming,Home Office,United States,Port Amyland,Wisconsin,38737,Central,P-53074,Office Supplies,Art,Art - Popular,311.41,3,0.3,-42.42
+90,CA-2017-482126,2020-10-18,2020-10-26,Standard Class,C-7875,Lisa,Baker,Corporate,United States,Mitchellmouth,Pennsylvania,35434,West,P-10438,Office Supplies,Appliances,Appliances - Day,672.43,5,0.0,122.23
+91,CA-2017-952535,2022-05-23,2022-05-31,Standard Class,C-1109,Daniel,Calderon,Consumer,United States,North Brittany,Alabama,06207,Central,P-20125,Furniture,Tables,Tables - High,1524.98,10,0.3,277.8
+92,CA-2022-839337,2025-08-17,2025-08-24,Second Class,C-2538,Billy,Thompson,Corporate,United States,Karenfurt,Georgia,84514,West,P-36692,Office Supplies,Storage,Storage - Opportunity,758.99,8,0.3,209.56
+93,CA-2015-789686,2021-03-25,2021-03-28,Same Day,C-2231,Donna,Johnson,Home Office,United States,Lisabury,Delaware,39776,Central,P-51153,Office Supplies,Art,Art - Also,514.87,10,0.2,34.38
+94,CA-2022-148922,2021-04-21,2021-04-26,First Class,C-2712,Donna,Pruitt,Corporate,United States,Tracyhaven,Iowa,04081,Central,P-46825,Technology,Phones,Phones - Push,1200.82,1,0.2,-122.29
+95,CA-2023-223263,2021-07-29,2021-08-05,Second Class,C-2910,Victor,Herrera,Corporate,United States,Goodwinmouth,Ohio,26728,West,P-55418,Furniture,Furnishings,Furnishings - Follow,1616.38,1,0.3,309.53
+96,CA-2016-653063,2022-06-09,2022-06-16,First Class,C-7751,Madison,Brown,Corporate,United States,Ericmouth,Texas,41029,West,P-83412,Office Supplies,Appliances,Appliances - Stop,664.53,7,0.1,171.18
+97,CA-2015-135858,2022-11-22,2022-11-26,Same Day,C-2210,Nicole,Henderson,Consumer,United States,Port Jennymouth,Nebraska,38375,Central,P-36017,Furniture,Chairs,Chairs - Manage,1901.12,2,0.2,-272.58
+98,CA-2015-825117,2023-10-01,2023-10-08,Standard Class,C-9624,Brian,Davis,Consumer,United States,Esparzatown,Pennsylvania,42941,Central,P-58825,Technology,Copiers,Copiers - End,1810.02,1,0.2,-104.58
+99,CA-2015-449797,2024-04-28,2024-04-30,First Class,C-7715,Mike,Davis,Home Office,United States,Wilsonview,Nebraska,32593,Central,P-13340,Furniture,Bookcases,Bookcases - Beat,603.23,10,0.4,-63.05
+100,CA-2020-264789,2024-03-16,2024-03-26,Same Day,C-4806,Amy,Vargas,Corporate,United States,New Cameronland,North Carolina,76452,South,P-44777,Office Supplies,Appliances,Appliances - Grow,1527.41,7,0.2,443.65
+101,CA-2023-874120,2022-07-06,2022-07-08,First Class,C-4711,David,Gutierrez,Corporate,United States,Nancyville,Indiana,02753,West,P-25542,Furniture,Bookcases,Bookcases - Garden,1730.36,2,0.1,99.26
+102,CA-2021-443866,2022-03-08,2022-03-15,First Class,C-6990,Bradley,Lin,Corporate,United States,Port Kiarahaven,Delaware,60710,South,P-35794,Furniture,Tables,Tables - Prepare,751.08,5,0.0,141.54
+103,CA-2020-225792,2023-02-03,2023-02-10,First Class,C-2293,Samantha,Morales,Consumer,United States,Ernestshire,Maine,97568,Central,P-77705,Technology,Accessories,Accessories - Six,905.44,8,0.2,52.57
+104,CA-2023-628787,2022-04-14,2022-04-18,Same Day,C-2194,Angela,Myers,Corporate,United States,Ryanhaven,Alabama,25833,West,P-32137,Furniture,Bookcases,Bookcases - Positive,10.01,10,0.1,2.82
+105,CA-2020-170063,2021-03-22,2021-03-28,Standard Class,C-6147,Mark,Powell,Corporate,United States,Stewartfurt,Florida,91111,Central,P-20285,Technology,Machines,Machines - Management,1144.5,3,0.2,335.27
+106,CA-2018-905049,2023-12-15,2023-12-19,First Class,C-9924,Elijah,Salazar,Corporate,United States,Port Keith,Washington,19154,East,P-39135,Furniture,Chairs,Chairs - Watch,1435.95,6,0.2,406.44
+107,CA-2021-291104,2022-10-13,2022-10-19,Standard Class,C-6866,Daniel,Hall,Corporate,United States,Garymouth,North Carolina,79013,East,P-60237,Office Supplies,Binders,Binders - Enter,1026.7,9,0.2,-21.07
+108,CA-2017-589566,2022-08-23,2022-08-25,Same Day,C-7106,Carolyn,Smith,Corporate,United States,West Briannaview,Kentucky,88301,East,P-54005,Furniture,Furnishings,Furnishings - Best,550.61,7,0.4,-56.58
+109,CA-2022-404425,2022-01-25,2022-01-29,Same Day,C-9715,Antonio,Green,Consumer,United States,Lake Carolyn,New Mexico,19591,East,P-75387,Office Supplies,Storage,Storage - Account,963.35,3,0.3,167.69
+110,CA-2022-107507,2025-06-18,2025-06-25,Same Day,C-8552,Amanda,Sanchez,Home Office,United States,Cindyview,California,64333,Central,P-53436,Technology,Copiers,Copiers - Spring,1903.13,5,0.2,330.53
+111,CA-2018-746098,2025-06-05,2025-06-15,Second Class,C-8241,Robin,Meyer,Consumer,United States,Abigailborough,Pennsylvania,32334,South,P-29090,Office Supplies,Storage,Storage - College,1391.43,6,0.4,61.69
+112,CA-2021-919667,2022-11-02,2022-11-07,Standard Class,C-8241,David,Hernandez,Corporate,United States,Port James,North Carolina,99369,Central,P-27752,Technology,Phones,Phones - Medical,874.26,8,0.1,-60.35
+113,CA-2019-593642,2021-06-08,2021-06-16,Second Class,C-7964,Matthew,Chavez,Consumer,United States,New Bryanbury,South Dakota,40054,South,P-60770,Office Supplies,Storage,Storage - Most,1566.71,6,0.3,-26.04
+114,CA-2015-912652,2022-10-19,2022-10-26,Standard Class,C-7425,Hannah,Schultz,Corporate,United States,South Meganbury,Nebraska,54838,East,P-66291,Furniture,Furnishings,Furnishings - Road,996.27,2,0.4,53.83
+115,CA-2017-734970,2022-10-11,2022-10-13,Same Day,C-7646,Amanda,Parker,Home Office,United States,Allenmouth,Wyoming,51384,Central,P-47820,Furniture,Tables,Tables - Bank,1443.2,2,0.2,-122.96
+116,CA-2017-762368,2022-10-19,2022-10-28,First Class,C-6143,Margaret,Romero,Corporate,United States,Rosarioberg,Oregon,68290,West,P-14359,Furniture,Tables,Tables - White,351.27,6,0.4,80.87
+117,CA-2019-385083,2021-04-09,2021-04-15,First Class,C-8754,Joseph,Wright,Consumer,United States,Kendraside,Illinois,92416,West,P-56798,Office Supplies,Binders,Binders - Class,1251.79,1,0.2,6.63
+118,CA-2018-556217,2023-12-20,2023-12-22,Same Day,C-9774,George,Reyes,Home Office,United States,Wagnerburgh,Mississippi,97476,Central,P-70065,Furniture,Chairs,Chairs - Traditional,349.62,10,0.0,-33.65
+119,CA-2016-808203,2022-05-17,2022-05-21,Second Class,C-2626,Bailey,Jordan,Corporate,United States,South Christopher,Maine,67830,East,P-15821,Technology,Machines,Machines - Once,1488.21,4,0.2,486.77
+120,CA-2017-760161,2020-12-04,2020-12-13,Second Class,C-7854,Justin,Ramos,Home Office,United States,Lake Susan,Vermont,23767,East,P-32597,Office Supplies,Binders,Binders - International,688.71,5,0.4,-73.3
+121,CA-2019-890145,2023-04-18,2023-04-21,Same Day,C-1301,Melissa,Ford,Corporate,United States,Collierton,Nebraska,69336,West,P-26192,Technology,Phones,Phones - Congress,1713.91,8,0.4,373.43
+122,CA-2015-261870,2024-04-06,2024-04-14,Second Class,C-8470,Ann,Wilson,Home Office,United States,Vasquezton,South Dakota,20867,East,P-36964,Technology,Copiers,Copiers - Writer,1216.83,9,0.3,214.26
+123,CA-2022-689788,2021-11-16,2021-11-22,Standard Class,C-2590,Krista,Graham,Consumer,United States,South Anthony,Arkansas,92687,West,P-17930,Office Supplies,Binders,Binders - Test,869.18,2,0.1,-41.63
+124,CA-2022-308447,2023-08-06,2023-08-11,Standard Class,C-9281,Elijah,Moore,Consumer,United States,Port Russellview,Connecticut,80037,West,P-93628,Furniture,Furnishings,Furnishings - Heavy,948.8,5,0.4,275.93
+125,CA-2017-477807,2025-02-07,2025-02-09,Same Day,C-9700,Ryan,Burke,Consumer,United States,Port Danaside,Connecticut,53067,East,P-95152,Office Supplies,Art,Art - Wind,71.7,8,0.3,-7.71
+126,CA-2015-259417,2022-09-14,2022-09-18,Standard Class,C-5185,Joshua,Reynolds,Consumer,United States,Lake James,Arkansas,80960,East,P-76670,Technology,Phones,Phones - Discover,172.51,1,0.0,3.73
+127,CA-2021-636672,2022-06-12,2022-06-18,Same Day,C-7625,Jose,Garcia,Corporate,United States,Lake Thomasshire,New Jersey,84260,South,P-24507,Technology,Copiers,Copiers - Indeed,295.89,4,0.4,55.26
+128,CA-2015-328001,2025-05-27,2025-06-02,Standard Class,C-7988,Heather,James,Home Office,United States,Lake Craig,New Mexico,99069,Central,P-46977,Furniture,Bookcases,Bookcases - Provide,1444.25,5,0.3,205.18
+129,CA-2015-955111,2020-12-01,2020-12-09,First Class,C-9758,Dustin,Barnes,Corporate,United States,North Stacy,Maryland,35824,East,P-45627,Technology,Copiers,Copiers - Need,123.64,4,0.3,-14.36
+130,CA-2019-937874,2021-08-27,2021-09-03,Same Day,C-8690,Victoria,Herrera,Corporate,United States,Leonardtown,California,95552,West,P-46907,Furniture,Furnishings,Furnishings - Player,1712.44,3,0.1,239.4
+131,CA-2021-882364,2023-07-22,2023-07-31,First Class,C-1123,Alyssa,Soto,Consumer,United States,South Kellytown,Montana,29291,West,P-13446,Furniture,Furnishings,Furnishings - Finally,1084.6,9,0.2,313.81
+132,CA-2020-648306,2021-04-07,2021-04-12,Standard Class,C-3903,Lauren,Lester,Corporate,United States,Jensenbury,Texas,17539,West,P-35806,Furniture,Tables,Tables - Be,50.03,1,0.2,-1.25
+133,CA-2020-584205,2024-07-25,2024-07-28,Same Day,C-9551,Allen,Maldonado,Corporate,United States,North Jonathanport,Missouri,42177,West,P-75780,Furniture,Furnishings,Furnishings - Well,50.4,9,0.3,-2.59
+134,CA-2016-131448,2023-02-23,2023-03-02,Same Day,C-7604,Chase,Sims,Home Office,United States,East Riley,Alaska,63282,Central,P-21143,Furniture,Furnishings,Furnishings - Class,1905.3,6,0.0,-112.86
+135,CA-2021-346309,2023-06-02,2023-06-08,Standard Class,C-2877,Eric,Hartman,Corporate,United States,Stephaniebury,Idaho,75169,East,P-88792,Technology,Copiers,Copiers - Enter,269.07,9,0.4,92.11
+136,CA-2018-948557,2024-01-09,2024-01-19,Second Class,C-8787,Whitney,Johnson,Consumer,United States,New Laurieville,Arkansas,09944,East,P-52592,Office Supplies,Art,Art - Matter,411.37,6,0.4,133.8
+137,CA-2016-177777,2022-07-07,2022-07-13,Second Class,C-5752,Nathan,Hernandez,Home Office,United States,Zacharyfort,Louisiana,53255,Central,P-69417,Furniture,Bookcases,Bookcases - North,1434.07,5,0.0,438.0
+138,CA-2021-178169,2021-12-16,2021-12-17,First Class,C-4487,Sarah,Martinez,Consumer,United States,Lake Robertfort,Connecticut,90029,West,P-71689,Office Supplies,Appliances,Appliances - Share,25.4,5,0.0,5.92
+139,CA-2023-370307,2020-09-26,2020-09-27,Second Class,C-5367,David,Davis,Consumer,United States,Johnchester,Alabama,16576,West,P-47170,Technology,Accessories,Accessories - Outside,1258.79,1,0.4,-100.97
+140,CA-2016-293807,2020-12-12,2020-12-20,Same Day,C-7264,Kristen,Baker,Home Office,United States,West Cynthia,Wyoming,19385,Central,P-59882,Technology,Machines,Machines - Their,464.43,4,0.1,105.14
+141,CA-2018-475006,2023-10-03,2023-10-06,First Class,C-7465,Crystal,Acevedo,Corporate,United States,Port Alejandro,Michigan,59052,South,P-48796,Furniture,Bookcases,Bookcases - Drug,1487.71,10,0.3,-91.05
+142,CA-2023-152103,2024-12-28,2025-01-06,First Class,C-4596,Samuel,Anderson,Home Office,United States,Port Mariomouth,North Carolina,78350,East,P-77556,Furniture,Bookcases,Bookcases - House,409.93,4,0.2,78.16
+143,CA-2015-514371,2023-09-24,2023-10-02,Same Day,C-7572,Cheryl,Whitaker,Home Office,United States,South Angela,Virginia,81130,South,P-44886,Furniture,Tables,Tables - Help,1862.84,8,0.4,-69.61
+144,CA-2015-617241,2024-06-18,2024-06-20,Second Class,C-2324,Herbert,Castillo,Consumer,United States,West Chloeton,Kansas,04125,Central,P-52053,Office Supplies,Storage,Storage - Prepare,306.38,7,0.3,59.68
+145,CA-2022-239024,2025-09-19,2025-09-20,Same Day,C-4107,Shannon,Gray,Home Office,United States,Williamsburgh,Massachusetts,87516,Central,P-10679,Office Supplies,Art,Art - Small,919.84,1,0.4,287.44
+146,CA-2015-902717,2022-07-16,2022-07-23,Same Day,C-4764,William,Miller,Corporate,United States,Cruzbury,Wyoming,54856,East,P-40999,Technology,Copiers,Copiers - Rate,827.87,1,0.0,-89.56
+147,CA-2023-838931,2025-03-23,2025-03-25,Same Day,C-6018,Robert,Miller,Corporate,United States,Lisaview,California,93141,South,P-29838,Office Supplies,Art,Art - Company,701.51,8,0.4,114.25
+148,CA-2020-602945,2024-05-03,2024-05-04,First Class,C-6171,Michael,Hughes,Consumer,United States,East Thomas,Nevada,82437,East,P-55599,Furniture,Bookcases,Bookcases - Vote,873.78,9,0.3,233.76
+149,CA-2016-236681,2022-01-23,2022-02-02,Standard Class,C-6053,Steve,Miller,Corporate,United States,Youngville,Washington,75804,Central,P-16622,Technology,Phones,Phones - Control,1198.75,2,0.1,253.19
+150,CA-2023-252063,2021-04-05,2021-04-09,Same Day,C-5419,Jodi,Allen,Home Office,United States,East Heatherborough,Texas,02044,Central,P-76102,Technology,Phones,Phones - Nice,1447.2,1,0.0,-106.33
+151,CA-2016-268776,2023-07-31,2023-08-07,Same Day,C-9985,Timothy,Jones,Corporate,United States,Port Elizabeth,Minnesota,64913,South,P-48235,Furniture,Furnishings,Furnishings - Blood,1005.43,4,0.3,-133.28
+152,CA-2021-967595,2023-01-29,2023-01-31,First Class,C-7072,Audrey,Carter,Corporate,United States,North Carlos,Washington,34812,South,P-32934,Office Supplies,Art,Art - Civil,144.7,7,0.4,-4.13
+153,CA-2015-289473,2022-09-29,2022-10-04,Standard Class,C-5782,Scott,Saunders,Consumer,United States,West Anthony,Hawaii,81499,South,P-77159,Office Supplies,Binders,Binders - Yet,327.3,3,0.1,-20.76
+154,CA-2021-329047,2024-09-24,2024-09-27,Same Day,C-1276,Michael,Novak,Consumer,United States,Port Kimberlyport,Hawaii,55225,South,P-77750,Technology,Copiers,Copiers - Mission,1676.58,7,0.4,-203.45
+155,CA-2022-420432,2022-11-12,2022-11-20,Same Day,C-6133,Steven,Brown,Home Office,United States,East Michaelshire,Nebraska,44143,Central,P-13803,Furniture,Bookcases,Bookcases - Security,865.37,6,0.0,238.45
+156,CA-2018-990567,2023-11-08,2023-11-15,Same Day,C-5323,Jill,Brown,Corporate,United States,Lesliehaven,New York,02984,South,P-41022,Technology,Phones,Phones - Pm,1153.82,3,0.1,189.25
+157,CA-2018-205967,2022-04-16,2022-04-23,Second Class,C-6615,Shawn,Moore,Corporate,United States,Miguelstad,Arizona,74325,West,P-90543,Furniture,Furnishings,Furnishings - Key,1657.05,9,0.1,5.93
+158,CA-2015-115946,2022-07-02,2022-07-07,Standard Class,C-4938,Mary,Wagner,Corporate,United States,South Amandaland,Nebraska,34158,East,P-36567,Furniture,Tables,Tables - Choice,1194.55,5,0.0,370.03
+159,CA-2021-992274,2021-12-05,2021-12-11,Same Day,C-3869,Christopher,Rich,Corporate,United States,Karenberg,New Jersey,83276,West,P-11871,Furniture,Tables,Tables - Weight,1579.78,7,0.2,414.09
+160,CA-2019-693980,2022-10-12,2022-10-22,Same Day,C-8437,Kelsey,Brown,Corporate,United States,West Jason,Ohio,69121,Central,P-56345,Furniture,Chairs,Chairs - But,621.2,3,0.1,55.24
+161,CA-2019-622611,2023-04-15,2023-04-17,Same Day,C-3522,Margaret,Lopez,Corporate,United States,Williamfort,New Jersey,84277,West,P-50555,Technology,Machines,Machines - Follow,899.51,8,0.4,-99.8
+162,CA-2020-408154,2025-02-15,2025-02-17,Same Day,C-4968,Shaun,Rojas,Home Office,United States,Bakerchester,Oregon,94735,East,P-67292,Technology,Copiers,Copiers - Look,1695.31,8,0.2,501.93
+163,CA-2017-414106,2022-04-20,2022-04-29,Standard Class,C-8039,Ryan,Gutierrez,Home Office,United States,Clarkburgh,Connecticut,63347,Central,P-50990,Office Supplies,Appliances,Appliances - Activity,961.63,2,0.2,-52.68
+164,CA-2019-667971,2021-01-03,2021-01-09,Standard Class,C-5543,Christopher,Griffin,Home Office,United States,Harrishaven,Nebraska,82683,Central,P-20708,Furniture,Tables,Tables - Role,302.92,6,0.2,-17.22
+165,CA-2019-247710,2023-02-07,2023-02-12,First Class,C-8022,Melissa,Jackson,Consumer,United States,West Rebekahfurt,Mississippi,05619,East,P-63618,Office Supplies,Storage,Storage - Poor,1752.1,7,0.1,80.17
+166,CA-2017-311815,2021-10-29,2021-11-04,First Class,C-3095,Jay,Woodard,Consumer,United States,East Toddshire,Nevada,51889,West,P-71293,Furniture,Furnishings,Furnishings - Evidence,68.98,9,0.4,16.44
+167,CA-2016-313274,2022-11-04,2022-11-13,Second Class,C-1074,Shelia,Reyes,Corporate,United States,Williamsshire,Pennsylvania,18183,Central,P-21804,Technology,Phones,Phones - Campaign,22.01,8,0.4,2.64
+168,CA-2019-688403,2021-04-09,2021-04-14,Second Class,C-8509,Julie,Ortiz,Home Office,United States,West Austinchester,Arkansas,99262,West,P-74701,Technology,Phones,Phones - Money,1423.95,10,0.4,185.37
+169,CA-2018-789494,2021-07-10,2021-07-19,Standard Class,C-2382,Derrick,Martinez,Home Office,United States,Christinabury,Minnesota,21968,Central,P-40543,Furniture,Chairs,Chairs - Ability,1183.56,9,0.1,-174.13
+170,CA-2015-948015,2025-02-27,2025-03-05,Standard Class,C-8660,Patrick,Rodriguez,Home Office,United States,Luismouth,Idaho,93535,Central,P-14507,Office Supplies,Paper,Paper - Old,1495.73,10,0.2,523.0
+171,CA-2016-100479,2024-11-14,2024-11-23,Standard Class,C-6193,Donna,Freeman,Consumer,United States,Ramirezport,Massachusetts,31515,East,P-35813,Furniture,Bookcases,Bookcases - Poor,1265.94,6,0.1,-177.1
+172,CA-2018-457237,2023-08-04,2023-08-10,First Class,C-4707,Christina,Smith,Home Office,United States,Richardhaven,Tennessee,64718,South,P-26640,Technology,Machines,Machines - Eye,1634.46,5,0.0,78.62
+173,CA-2016-195967,2023-11-23,2023-11-25,Same Day,C-2597,Lucas,Wilson,Consumer,United States,Meganton,Michigan,69157,East,P-61062,Technology,Accessories,Accessories - Agency,399.9,3,0.0,24.82
+174,CA-2020-577329,2022-05-12,2022-05-15,Same Day,C-4510,Cynthia,Torres,Home Office,United States,Port John,Minnesota,39977,East,P-46533,Furniture,Furnishings,Furnishings - Drug,1060.14,4,0.1,368.51
+175,CA-2021-290266,2021-05-09,2021-05-17,Second Class,C-7261,Amy,Griffin,Consumer,United States,South Thomas,Texas,46318,East,P-24689,Technology,Phones,Phones - Approach,1131.5,3,0.1,259.81
+176,CA-2021-655880,2021-03-19,2021-03-22,Standard Class,C-1976,Edward,Green,Consumer,United States,Port Alisonville,New York,07658,West,P-62490,Office Supplies,Binders,Binders - Tonight,1107.33,9,0.1,-32.76
+177,CA-2019-844214,2020-11-07,2020-11-16,Standard Class,C-3204,Chris,Case,Consumer,United States,Paulmouth,New Mexico,42668,Central,P-51011,Technology,Copiers,Copiers - Summer,1416.75,4,0.0,22.58
+178,CA-2018-154059,2021-12-18,2021-12-22,First Class,C-7022,Anthony,Reese,Corporate,United States,Mileschester,New Jersey,19180,East,P-58864,Furniture,Furnishings,Furnishings - The,731.36,6,0.4,116.03
+179,CA-2019-249494,2025-08-28,2025-08-29,Standard Class,C-8900,Lisa,Obrien,Home Office,United States,West Allison,Missouri,14642,South,P-58184,Technology,Accessories,Accessories - Western,725.29,9,0.3,-91.77
+180,CA-2023-637764,2022-08-09,2022-08-19,First Class,C-7773,Patricia,Russell,Home Office,United States,Lisafurt,Oklahoma,92243,Central,P-26775,Furniture,Tables,Tables - Pick,1363.21,9,0.2,-12.1
+181,CA-2021-786495,2024-08-28,2024-09-07,First Class,C-8279,Michelle,Rosario,Corporate,United States,Jamesborough,Minnesota,54297,East,P-84614,Office Supplies,Paper,Paper - Follow,1293.92,4,0.0,127.27
+182,CA-2022-419316,2022-09-08,2022-09-15,Standard Class,C-5092,Eddie,Bowen,Consumer,United States,West Laurachester,Florida,12680,Central,P-62102,Technology,Phones,Phones - Eye,1770.47,2,0.4,613.82
+183,CA-2016-391989,2023-04-19,2023-04-27,Second Class,C-5146,Alyssa,Johnson,Consumer,United States,Terriburgh,Montana,52015,East,P-83388,Technology,Accessories,Accessories - East,1623.53,1,0.4,429.4
+184,CA-2016-486794,2021-04-24,2021-05-02,Second Class,C-5185,Mark,Brown,Corporate,United States,Doyleshire,Kentucky,44956,Central,P-50745,Office Supplies,Binders,Binders - Six,888.33,8,0.1,160.66
+185,CA-2022-496945,2022-04-06,2022-04-11,Second Class,C-1006,Matthew,Ortega,Home Office,United States,Victorialand,South Carolina,59051,West,P-27982,Office Supplies,Storage,Storage - Money,877.73,2,0.1,-30.44
+186,CA-2017-909609,2022-03-04,2022-03-05,Same Day,C-7163,Robin,Washington,Consumer,United States,Gonzalezborough,North Dakota,76137,East,P-37196,Furniture,Tables,Tables - Raise,1779.95,7,0.2,336.89
+187,CA-2015-911269,2024-08-17,2024-08-20,Second Class,C-7909,Stephanie,Robinson,Home Office,United States,Ianburgh,Delaware,40398,Central,P-99203,Technology,Phones,Phones - Important,1851.79,3,0.1,408.3
+188,CA-2016-950151,2025-05-19,2025-05-20,Same Day,C-5458,Gerald,Reed,Home Office,United States,Port Dawnmouth,Massachusetts,30848,West,P-27032,Office Supplies,Paper,Paper - Memory,896.62,8,0.0,178.03
+189,CA-2019-394848,2021-11-25,2021-11-30,Second Class,C-3651,Renee,Graham,Home Office,United States,East Barbarabury,California,44847,West,P-48016,Furniture,Furnishings,Furnishings - Would,386.14,5,0.4,37.17
+190,CA-2022-105876,2025-02-09,2025-02-15,Standard Class,C-9113,Kelly,Howard,Consumer,United States,West Sheliashire,New York,71638,West,P-77887,Office Supplies,Binders,Binders - Brother,1630.02,5,0.1,178.14
+191,CA-2020-295126,2024-12-15,2024-12-20,Standard Class,C-7647,Jessica,Davis,Consumer,United States,Stephenhaven,West Virginia,26966,South,P-54057,Furniture,Tables,Tables - There,1243.77,8,0.0,31.71
+192,CA-2021-919211,2021-09-22,2021-09-23,First Class,C-5238,Joyce,Clark,Home Office,United States,Burtonmouth,Rhode Island,34494,West,P-25844,Furniture,Bookcases,Bookcases - Court,941.31,9,0.3,229.21
+193,CA-2022-233288,2024-06-25,2024-07-04,First Class,C-1114,Michelle,Reynolds,Corporate,United States,East Jamesland,Tennessee,28483,South,P-54260,Technology,Copiers,Copiers - Could,738.28,3,0.4,78.13
+194,CA-2016-588266,2021-05-06,2021-05-16,Same Day,C-9252,Robert,Conner,Home Office,United States,Nguyenburgh,Arkansas,93999,Central,P-84474,Technology,Machines,Machines - Have,1629.72,9,0.0,126.64
+195,CA-2017-612745,2021-02-11,2021-02-15,Standard Class,C-4752,Kristen,Roberts,Corporate,United States,East Briana,Wyoming,66223,East,P-67030,Furniture,Tables,Tables - Return,1924.04,7,0.4,601.97
+196,CA-2018-295715,2020-11-15,2020-11-19,First Class,C-6600,Holly,Reid,Consumer,United States,Port Ronaldton,Wyoming,11982,West,P-41571,Technology,Phones,Phones - Sing,943.21,7,0.0,29.88
+197,CA-2017-167731,2025-05-09,2025-05-15,Same Day,C-4548,John,Sparks,Home Office,United States,North Carla,Connecticut,04050,South,P-51774,Technology,Phones,Phones - Pass,1635.55,2,0.0,354.71
+198,CA-2023-157047,2025-08-02,2025-08-06,First Class,C-4126,Austin,Parker,Home Office,United States,West Linda,Kansas,07570,Central,P-54508,Office Supplies,Storage,Storage - Defense,1490.74,7,0.0,-170.49
+199,CA-2019-243119,2021-03-09,2021-03-19,Standard Class,C-8301,Mark,Anderson,Home Office,United States,North Whitneyland,Missouri,87394,South,P-48023,Office Supplies,Binders,Binders - Standard,754.23,2,0.2,261.02
+200,CA-2015-881237,2023-01-10,2023-01-14,Second Class,C-3720,Laura,Williamson,Home Office,United States,East Mary,Minnesota,28841,East,P-94447,Furniture,Furnishings,Furnishings - Back,97.28,6,0.1,15.43
+201,CA-2021-509886,2023-02-07,2023-02-09,First Class,C-9723,Hayley,Reid,Consumer,United States,Alejandrostad,North Carolina,38047,East,P-15602,Technology,Machines,Machines - Tree,734.64,4,0.0,-71.97
+202,CA-2017-391900,2022-07-24,2022-07-30,Second Class,C-7445,Joseph,Roy,Corporate,United States,East Matthewberg,Delaware,43540,South,P-40548,Furniture,Tables,Tables - List,743.38,1,0.4,245.6
+203,CA-2017-554080,2020-11-20,2020-11-24,First Class,C-9957,Barbara,Miller,Corporate,United States,North Cheryl,Idaho,87593,West,P-10187,Technology,Copiers,Copiers - Open,1096.3,1,0.1,369.34
+204,CA-2018-216552,2024-06-19,2024-06-29,Standard Class,C-2806,Michael,Ramos,Corporate,United States,South Codyview,Georgia,72233,Central,P-59367,Furniture,Chairs,Chairs - Reach,1043.38,10,0.2,194.71
+205,CA-2016-557130,2021-01-14,2021-01-22,First Class,C-6717,Kathleen,Nelson,Corporate,United States,Nelsonfort,Indiana,18981,East,P-72594,Office Supplies,Paper,Paper - Peace,1586.3,6,0.3,281.22
+206,CA-2021-154937,2023-02-06,2023-02-16,Standard Class,C-3336,Andres,Michael,Corporate,United States,West Donaldmouth,Minnesota,03603,Central,P-58776,Technology,Phones,Phones - Share,1995.72,1,0.3,-291.41
+207,CA-2020-916780,2022-04-18,2022-04-20,Same Day,C-5229,Joseph,Mcgee,Home Office,United States,Keithstad,Oklahoma,34920,Central,P-92279,Furniture,Tables,Tables - Our,1224.82,2,0.2,387.38
+208,CA-2022-353584,2023-07-25,2023-07-28,Second Class,C-1457,Daniel,Griffin,Corporate,United States,Port Kimberly,Oregon,46112,Central,P-92236,Furniture,Bookcases,Bookcases - His,530.54,6,0.4,5.17
+209,CA-2019-171773,2022-07-01,2022-07-06,Standard Class,C-5501,James,Baker,Consumer,United States,Briannahaven,Rhode Island,67678,West,P-62560,Technology,Copiers,Copiers - Drop,823.78,7,0.0,127.26
+210,CA-2016-765802,2021-03-11,2021-03-21,Same Day,C-9867,Jason,Brady,Consumer,United States,Brianborough,Florida,58701,West,P-82302,Furniture,Bookcases,Bookcases - Half,1991.32,10,0.3,-190.61
+211,CA-2017-819365,2023-07-15,2023-07-18,Same Day,C-9135,Richard,Sullivan,Consumer,United States,Shortmouth,South Carolina,63898,Central,P-69601,Furniture,Tables,Tables - Voice,1496.32,5,0.1,-64.58
+212,CA-2016-593609,2022-02-14,2022-02-16,First Class,C-7098,David,Jones,Consumer,United States,New Aaron,Vermont,10648,South,P-30232,Technology,Phones,Phones - Set,647.71,10,0.2,-48.86
+213,CA-2022-629994,2022-02-13,2022-02-17,Second Class,C-5030,Christopher,Hall,Home Office,United States,New Kevin,Nevada,86584,East,P-53289,Technology,Accessories,Accessories - Friend,997.55,10,0.4,296.07
+214,CA-2015-284747,2022-07-29,2022-08-01,First Class,C-9370,Vanessa,Whitney,Home Office,United States,North Carolyn,Wyoming,54270,East,P-53184,Furniture,Bookcases,Bookcases - Career,922.34,1,0.3,320.16
+215,CA-2021-917607,2023-06-06,2023-06-14,Second Class,C-8844,Brian,Lopez,Home Office,United States,Lake Erin,Connecticut,21391,West,P-87903,Office Supplies,Appliances,Appliances - Yard,400.86,2,0.0,-56.28
+216,CA-2018-327559,2023-09-02,2023-09-05,Second Class,C-3362,Kenneth,Vasquez,Home Office,United States,Jenkinsbury,Illinois,66318,South,P-53885,Technology,Copiers,Copiers - Every,1337.93,5,0.1,269.96
+217,CA-2017-247408,2021-02-05,2021-02-07,Second Class,C-5024,Diana,Mathews,Home Office,United States,Smithshire,Oklahoma,82035,West,P-63784,Office Supplies,Art,Art - Machine,1947.48,2,0.0,-159.66
+218,CA-2018-372260,2021-08-30,2021-08-31,Same Day,C-4524,Matthew,Myers,Home Office,United States,West Cynthia,North Carolina,26199,East,P-43068,Technology,Phones,Phones - Ask,997.93,10,0.3,-143.47
+219,CA-2018-917001,2022-12-25,2022-12-27,First Class,C-7870,Christian,Mcintyre,Corporate,United States,Port Roy,Wyoming,90068,West,P-88397,Office Supplies,Paper,Paper - Go,107.54,1,0.0,30.94
+220,CA-2017-745857,2021-06-12,2021-06-19,Second Class,C-5919,Robert,Fisher,Corporate,United States,Lake Preston,New Mexico,05149,South,P-80910,Office Supplies,Storage,Storage - Seek,1436.22,3,0.0,362.78
+221,CA-2020-544441,2022-09-16,2022-09-19,Standard Class,C-6943,Sherry,Lindsey,Consumer,United States,New Dalton,Delaware,28456,Central,P-79544,Furniture,Tables,Tables - Relate,500.55,8,0.1,-12.69
+222,CA-2018-218456,2022-05-19,2022-05-29,First Class,C-3610,Kimberly,Crawford,Consumer,United States,Thomasland,Illinois,96734,Central,P-20670,Technology,Phones,Phones - Degree,82.13,1,0.1,23.51
+223,CA-2016-137341,2022-09-15,2022-09-20,Standard Class,C-6190,Maria,Rodriguez,Corporate,United States,Lake Timothy,Virginia,34984,West,P-71924,Office Supplies,Storage,Storage - Ever,277.82,8,0.3,-2.82
+224,CA-2017-223770,2023-11-18,2023-11-28,First Class,C-9990,Sarah,Stokes,Home Office,United States,Brendaland,Virginia,33674,East,P-87313,Office Supplies,Art,Art - Cut,1290.5,6,0.3,408.81
+225,CA-2020-899703,2024-02-22,2024-03-03,First Class,C-9731,Toni,Lara,Corporate,United States,West Derekmouth,Texas,10263,South,P-87562,Furniture,Furnishings,Furnishings - Place,1092.21,4,0.3,-15.59
+226,CA-2018-122376,2022-10-01,2022-10-05,Second Class,C-2093,Megan,Taylor,Home Office,United States,Larryview,Illinois,19559,Central,P-91918,Furniture,Furnishings,Furnishings - Among,1544.76,9,0.2,116.94
+227,CA-2017-202944,2025-03-09,2025-03-11,Standard Class,C-3851,Joel,Landry,Consumer,United States,North Raymond,Mississippi,54041,West,P-73303,Office Supplies,Appliances,Appliances - Surface,1390.27,5,0.4,-44.37
+228,CA-2017-145652,2021-04-21,2021-04-30,First Class,C-1752,Wendy,Rodriguez,Consumer,United States,Lake Julie,Massachusetts,14003,West,P-71596,Office Supplies,Storage,Storage - Control,1099.95,1,0.0,162.37
+229,CA-2016-978299,2022-06-22,2022-06-24,Second Class,C-1705,Kristy,Bradley,Consumer,United States,East Raymond,Montana,14857,West,P-64495,Office Supplies,Appliances,Appliances - Perhaps,538.65,4,0.1,134.03
+230,CA-2015-239210,2021-08-22,2021-08-30,Second Class,C-7717,Michael,Rivera,Corporate,United States,Graybury,South Carolina,72577,Central,P-80135,Furniture,Chairs,Chairs - Treatment,1319.45,8,0.2,-38.49
+231,CA-2018-298359,2022-12-30,2023-01-06,Same Day,C-1692,Cody,Rogers,Home Office,United States,Vanessaview,Pennsylvania,38614,West,P-33917,Office Supplies,Storage,Storage - Make,888.45,10,0.0,275.53
+232,CA-2023-160628,2021-03-13,2021-03-16,Standard Class,C-3535,Robert,Ruiz,Home Office,United States,East Andrew,Connecticut,33198,South,P-57990,Furniture,Bookcases,Bookcases - Nation,655.35,10,0.0,163.39
+233,CA-2017-981955,2022-05-15,2022-05-20,First Class,C-8277,Cynthia,Thomas,Corporate,United States,Mariestad,Illinois,31567,South,P-63677,Office Supplies,Binders,Binders - Research,1860.22,1,0.2,91.46
+234,CA-2018-865710,2023-05-21,2023-05-28,Standard Class,C-4929,Terri,Pratt,Corporate,United States,Hallburgh,Massachusetts,39137,East,P-53555,Furniture,Furnishings,Furnishings - Rock,350.22,1,0.4,20.09
+235,CA-2017-696240,2022-06-02,2022-06-03,First Class,C-6314,Jason,Turner,Corporate,United States,Port Albertbury,Arizona,96387,West,P-55740,Office Supplies,Binders,Binders - Fact,1573.29,2,0.2,402.35
+236,CA-2017-742806,2022-07-07,2022-07-08,Same Day,C-6260,Mathew,West,Consumer,United States,West Tina,Utah,85972,East,P-41537,Office Supplies,Appliances,Appliances - Executive,905.99,3,0.0,295.46
+237,CA-2023-477621,2021-07-08,2021-07-17,Second Class,C-8893,Daisy,Barrera,Consumer,United States,Danielleview,Alaska,94703,Central,P-37314,Office Supplies,Binders,Binders - Bill,171.22,5,0.0,43.32
+238,CA-2023-689928,2023-01-18,2023-01-23,Standard Class,C-6201,Randy,Nelson,Home Office,United States,Woodwardview,Nevada,83263,South,P-31233,Furniture,Furnishings,Furnishings - Her,1615.41,2,0.2,555.52
+239,CA-2015-504995,2021-09-05,2021-09-07,Second Class,C-2006,Christina,Hernandez,Home Office,United States,West Davidhaven,Arkansas,00523,South,P-74228,Technology,Machines,Machines - Respond,613.32,9,0.2,-56.47
+240,CA-2020-560694,2022-02-11,2022-02-19,First Class,C-4790,Emily,Moreno,Home Office,United States,Lake Jamesville,Connecticut,08817,Central,P-32532,Office Supplies,Art,Art - Major,1220.76,2,0.4,-121.9
+241,CA-2017-454073,2021-11-25,2021-12-01,Second Class,C-7241,Karen,Robinson,Corporate,United States,East Tom,New Jersey,48728,East,P-46548,Furniture,Furnishings,Furnishings - Health,903.09,1,0.0,142.75
+242,CA-2018-696243,2021-10-27,2021-10-29,First Class,C-4283,Christopher,Martin,Consumer,United States,Jonesfort,Arkansas,66167,East,P-59824,Office Supplies,Art,Art - Through,1374.61,8,0.1,-149.17
+243,CA-2018-883559,2024-11-05,2024-11-10,Second Class,C-6976,Marilyn,Brown,Corporate,United States,West Stacy,Connecticut,12833,West,P-15447,Furniture,Tables,Tables - Response,1116.91,8,0.0,100.5
+244,CA-2020-735824,2024-04-28,2024-05-02,Second Class,C-8296,Cody,King,Corporate,United States,Transtad,Hawaii,55727,South,P-52119,Technology,Machines,Machines - Represent,114.41,4,0.0,34.63
+245,CA-2023-538253,2020-11-24,2020-12-03,First Class,C-4990,Joseph,Mills,Consumer,United States,Morganmouth,Wyoming,41092,Central,P-61729,Technology,Machines,Machines - Catch,759.26,6,0.2,-88.66
+246,CA-2017-372057,2025-08-02,2025-08-12,Standard Class,C-4844,David,Paul,Corporate,United States,Carolynshire,Hawaii,92672,Central,P-83114,Technology,Phones,Phones - Sit,661.8,6,0.3,-14.47
+247,CA-2017-179977,2023-06-13,2023-06-23,Standard Class,C-6781,Hannah,Rocha,Corporate,United States,Jonesborough,Michigan,06224,South,P-45160,Office Supplies,Storage,Storage - Student,1637.41,6,0.3,528.41
+248,CA-2022-941905,2022-09-17,2022-09-22,Standard Class,C-7484,Jasmine,Watkins,Corporate,United States,Higginston,New Hampshire,73020,Central,P-84204,Furniture,Chairs,Chairs - General,1368.64,1,0.3,170.14
+249,CA-2017-425817,2025-05-28,2025-06-03,Same Day,C-5621,Devin,Bennett,Corporate,United States,Lake Melissashire,Washington,53184,East,P-88474,Office Supplies,Paper,Paper - Make,1919.13,1,0.1,292.74
+250,CA-2016-194666,2021-02-01,2021-02-07,Same Day,C-3953,Alexis,Robinson,Home Office,United States,Helenborough,Oklahoma,72364,West,P-45924,Office Supplies,Binders,Binders - Total,893.81,2,0.1,27.9
+251,CA-2017-844879,2021-04-09,2021-04-13,First Class,C-9751,Allison,Garza,Corporate,United States,Port Cassandraside,Tennessee,55435,West,P-31051,Office Supplies,Art,Art - Top,845.82,6,0.0,180.06
+252,CA-2023-263625,2022-10-03,2022-10-07,Second Class,C-1377,Nina,Campbell,Home Office,United States,Amytown,North Carolina,74180,West,P-87605,Furniture,Furnishings,Furnishings - Pattern,1415.37,4,0.1,-210.08
+253,CA-2018-283759,2020-12-14,2020-12-17,Same Day,C-8140,Kevin,Nelson,Corporate,United States,South Dakota,Delaware,39478,West,P-73840,Technology,Copiers,Copiers - School,1144.78,10,0.1,-18.24
+254,CA-2019-921140,2025-02-10,2025-02-12,Same Day,C-1870,Ricardo,Gallegos,Consumer,United States,Kristinaborough,Alabama,32068,West,P-43131,Office Supplies,Storage,Storage - Vote,632.51,10,0.1,-21.71
+255,CA-2016-138351,2021-12-28,2022-01-05,Same Day,C-5078,James,Garrett,Home Office,United States,Morganmouth,Nevada,48128,East,P-52424,Furniture,Furnishings,Furnishings - Suffer,1841.99,6,0.2,348.27
+256,CA-2022-882435,2024-09-20,2024-09-23,Second Class,C-8800,Mary,Perry,Consumer,United States,Lake Melindahaven,Colorado,19464,South,P-87484,Furniture,Bookcases,Bookcases - Time,1768.05,6,0.0,-57.2
+257,CA-2021-194708,2024-05-24,2024-05-25,Same Day,C-3518,Lisa,Moreno,Home Office,United States,Dannychester,Vermont,63260,Central,P-58604,Office Supplies,Paper,Paper - Appear,348.8,1,0.4,-6.22
+258,CA-2018-867311,2021-09-19,2021-09-21,First Class,C-2150,Andrea,Williams,Consumer,United States,Franklinside,Kansas,41096,Central,P-96526,Technology,Machines,Machines - Idea,224.87,8,0.2,76.07
+259,CA-2023-644089,2021-06-12,2021-06-22,Same Day,C-3930,Amanda,Giles,Home Office,United States,East Michaelhaven,Arizona,73375,East,P-16469,Furniture,Furnishings,Furnishings - Head,221.52,9,0.3,-6.42
+260,CA-2021-499198,2024-12-30,2025-01-06,Same Day,C-9611,Kelly,Stewart,Corporate,United States,North Katherineview,North Dakota,73550,South,P-31187,Furniture,Tables,Tables - Look,1397.21,5,0.1,191.3
+261,CA-2019-249922,2022-12-18,2022-12-20,First Class,C-5025,Connor,Wiley,Consumer,United States,Hodgesland,Tennessee,69094,West,P-17447,Office Supplies,Appliances,Appliances - Story,1596.37,5,0.4,524.47
+262,CA-2019-930569,2021-02-18,2021-02-25,Standard Class,C-4873,Michelle,Hurley,Corporate,United States,Scottfurt,Mississippi,79497,East,P-21543,Office Supplies,Binders,Binders - Evidence,1784.84,8,0.3,95.74
+263,CA-2021-916399,2025-03-20,2025-03-26,First Class,C-1484,Chad,Colon,Home Office,United States,South Manuel,South Dakota,24028,Central,P-60432,Furniture,Bookcases,Bookcases - Arrive,142.42,2,0.3,30.11
+264,CA-2018-872540,2025-09-16,2025-09-19,Standard Class,C-7814,Andrea,Romero,Corporate,United States,Lake Ianburgh,New Hampshire,31895,Central,P-70585,Furniture,Tables,Tables - Center,1217.95,5,0.0,-35.51
+265,CA-2018-432961,2021-10-03,2021-10-12,First Class,C-5588,David,Bond,Consumer,United States,Martinezmouth,North Carolina,20504,Central,P-38338,Technology,Phones,Phones - Environmental,557.42,9,0.2,66.34
+266,CA-2016-140981,2023-12-04,2023-12-10,Second Class,C-5392,Diana,York,Home Office,United States,South Melissa,Arizona,80100,South,P-47531,Office Supplies,Paper,Paper - Moment,124.96,3,0.1,19.89
+267,CA-2016-903050,2023-09-26,2023-10-06,Standard Class,C-1604,Lori,Harris,Corporate,United States,Elizabethborough,Wyoming,86661,South,P-72016,Furniture,Furnishings,Furnishings - Without,1867.35,9,0.4,498.9
+268,CA-2022-385622,2021-02-13,2021-02-16,First Class,C-7269,Judith,Wise,Home Office,United States,North Shannon,Maine,83496,East,P-61330,Office Supplies,Appliances,Appliances - Total,1399.92,7,0.2,212.4
+269,CA-2023-154166,2025-07-22,2025-07-23,First Class,C-7753,Anthony,Lee,Consumer,United States,Trujillohaven,Minnesota,44164,East,P-14892,Technology,Accessories,Accessories - Because,1895.92,9,0.4,520.83
+270,CA-2021-492867,2021-07-17,2021-07-26,Second Class,C-3667,Kristy,Holt,Corporate,United States,Mooreview,Maryland,35306,East,P-37137,Office Supplies,Appliances,Appliances - Out,718.98,8,0.4,-36.39
+271,CA-2016-405193,2020-10-02,2020-10-06,Same Day,C-3311,Cheyenne,Hudson,Consumer,United States,Lowechester,West Virginia,27614,West,P-17346,Technology,Machines,Machines - Reason,86.21,1,0.0,15.45
+272,CA-2016-473216,2022-05-07,2022-05-10,Same Day,C-1651,Adam,Morales,Consumer,United States,Christinaside,Illinois,29164,South,P-57979,Technology,Accessories,Accessories - Almost,1617.45,9,0.4,-205.12
+273,CA-2019-660501,2022-02-03,2022-02-05,Same Day,C-1304,Elaine,Hunt,Home Office,United States,North Ericfort,Georgia,14499,East,P-59929,Technology,Machines,Machines - Glass,121.29,7,0.1,-2.87
+274,CA-2015-594120,2025-02-21,2025-02-22,First Class,C-8506,Jessica,Sharp,Home Office,United States,South Michealshire,Wisconsin,39815,East,P-56950,Furniture,Furnishings,Furnishings - Present,1864.43,10,0.0,469.9
+275,CA-2021-134165,2024-07-06,2024-07-15,Standard Class,C-1665,James,Vance,Consumer,United States,Collinsland,Hawaii,26724,Central,P-29738,Office Supplies,Appliances,Appliances - Sister,395.28,10,0.3,129.65
+276,CA-2023-617137,2023-01-09,2023-01-10,First Class,C-4295,Tiffany,Martinez,Home Office,United States,East Grant,Iowa,63622,East,P-32622,Office Supplies,Storage,Storage - Significant,577.2,5,0.2,-12.68
+277,CA-2023-354042,2022-06-07,2022-06-17,First Class,C-9259,James,Thomas,Consumer,United States,Garciaside,Iowa,77400,Central,P-37525,Technology,Accessories,Accessories - Wrong,1182.18,1,0.2,-97.5
+278,CA-2023-397778,2025-05-21,2025-05-26,First Class,C-5684,David,Wyatt,Home Office,United States,Sextonhaven,Kentucky,03222,East,P-86470,Furniture,Bookcases,Bookcases - Rich,1420.46,1,0.2,-192.12
+279,CA-2016-354958,2020-12-03,2020-12-05,Same Day,C-3517,William,Stephens,Consumer,United States,New Jeremy,North Dakota,73877,West,P-20395,Technology,Machines,Machines - None,385.26,1,0.4,-8.67
+280,CA-2019-131887,2021-09-16,2021-09-23,Second Class,C-6239,Bruce,Gray,Corporate,United States,Port Samueltown,Virginia,75291,Central,P-82331,Technology,Phones,Phones - Chair,934.34,10,0.1,-65.95
+281,CA-2015-431104,2021-05-18,2021-05-27,First Class,C-7348,Ronnie,Cooper,Corporate,United States,Port Mathewfurt,Florida,53572,South,P-84049,Office Supplies,Art,Art - Their,754.9,2,0.0,180.03
+282,CA-2020-314872,2021-06-10,2021-06-14,First Class,C-5299,Melissa,Huang,Home Office,United States,Wilsonborough,Michigan,13914,East,P-79596,Furniture,Chairs,Chairs - Idea,728.35,5,0.1,-107.06
+283,CA-2016-657434,2025-01-11,2025-01-13,Standard Class,C-4024,Carrie,Douglas,Corporate,United States,Lake Tinaview,New Jersey,30275,South,P-12127,Furniture,Chairs,Chairs - Place,793.25,10,0.0,121.43
+284,CA-2015-666646,2023-12-04,2023-12-14,Same Day,C-3183,Kevin,Chandler,Home Office,United States,East Kaylafurt,Kentucky,09641,Central,P-72292,Furniture,Furnishings,Furnishings - Perform,1008.17,9,0.0,322.53
+285,CA-2018-966019,2024-10-24,2024-10-25,First Class,C-7492,David,Osborne,Consumer,United States,West Lorettatown,Rhode Island,48842,South,P-41966,Technology,Accessories,Accessories - Many,567.13,3,0.0,175.51
+286,CA-2015-463731,2022-06-22,2022-06-27,First Class,C-9598,Sheila,Morgan,Home Office,United States,Rivaschester,Nebraska,46505,West,P-11718,Furniture,Furnishings,Furnishings - Especially,1179.4,5,0.2,256.57
+287,CA-2022-312292,2021-11-07,2021-11-08,Second Class,C-4934,Kendra,Taylor,Consumer,United States,Rachelfort,Massachusetts,79774,East,P-89491,Office Supplies,Binders,Binders - Require,1207.04,6,0.1,401.25
+288,CA-2017-849681,2023-10-06,2023-10-14,First Class,C-7711,Austin,Baird,Corporate,United States,Lake Andreaburgh,South Dakota,50526,South,P-67405,Technology,Copiers,Copiers - Live,16.9,5,0.4,0.54
+289,CA-2017-363169,2021-06-19,2021-06-29,Same Day,C-1962,Michelle,Martin,Corporate,United States,Gregorystad,Illinois,06026,Central,P-40249,Furniture,Chairs,Chairs - Imagine,1304.57,1,0.3,38.84
+290,CA-2023-464411,2022-12-26,2022-12-27,First Class,C-6438,Michael,Farrell,Consumer,United States,Michaeltown,New Jersey,31145,South,P-29638,Office Supplies,Storage,Storage - Control,1411.62,1,0.1,301.48
+291,CA-2018-291507,2024-01-22,2024-01-28,First Class,C-8317,George,Hall,Home Office,United States,Scottview,Wisconsin,13093,South,P-61842,Technology,Machines,Machines - Tend,76.56,2,0.2,5.72
+292,CA-2023-273872,2021-12-15,2021-12-21,Second Class,C-8840,Thomas,Jackson,Home Office,United States,New Leslieport,Rhode Island,40277,East,P-65611,Technology,Machines,Machines - Project,764.33,1,0.1,-73.99
+293,CA-2022-253627,2023-05-02,2023-05-10,Standard Class,C-5905,Mary,Berry,Home Office,United States,Martinberg,New York,00813,East,P-77653,Office Supplies,Appliances,Appliances - National,574.15,10,0.2,65.9
+294,CA-2022-874598,2021-10-17,2021-10-25,Same Day,C-5569,Samuel,Davis,Consumer,United States,West Kevin,New Jersey,25199,West,P-90446,Furniture,Bookcases,Bookcases - Do,1092.62,6,0.1,203.67
+295,CA-2023-681186,2025-07-04,2025-07-12,Second Class,C-7586,Jonathan,Brown,Home Office,United States,Clarkhaven,South Dakota,68716,Central,P-35720,Office Supplies,Paper,Paper - The,1854.57,9,0.4,189.17
+296,CA-2020-123191,2024-10-22,2024-10-27,Same Day,C-8986,Eric,Johnson,Corporate,United States,Williefort,Iowa,15220,South,P-27537,Technology,Copiers,Copiers - Right,835.89,9,0.1,94.94
+297,CA-2021-545320,2021-03-28,2021-03-29,Same Day,C-8695,Jorge,Doyle,Corporate,United States,Allenborough,Florida,67318,East,P-95871,Furniture,Chairs,Chairs - Station,1652.52,2,0.2,-16.49
+298,CA-2017-599689,2023-05-05,2023-05-09,Same Day,C-8802,Frank,Hudson,Consumer,United States,West Stacyfort,Virginia,43065,East,P-20993,Technology,Machines,Machines - Trade,1179.95,1,0.4,344.45
+299,CA-2023-742474,2021-03-06,2021-03-15,Same Day,C-7719,Julia,Lambert,Consumer,United States,Wademouth,Idaho,90722,South,P-33807,Furniture,Furnishings,Furnishings - Tough,1846.38,5,0.2,344.65
+300,CA-2021-822702,2024-03-08,2024-03-12,First Class,C-7119,Kristen,Vasquez,Corporate,United States,South Kelly,Oregon,51765,West,P-72121,Technology,Accessories,Accessories - Firm,1923.67,4,0.2,-39.57
+301,CA-2017-893832,2024-09-17,2024-09-24,Standard Class,C-8704,Roberto,Farrell,Home Office,United States,Durhamland,California,22896,South,P-43635,Furniture,Furnishings,Furnishings - Hear,713.41,9,0.2,211.09
+302,CA-2018-430508,2021-04-13,2021-04-18,First Class,C-1860,Patricia,Jones,Consumer,United States,Davisview,New Hampshire,10103,East,P-32390,Office Supplies,Paper,Paper - Likely,319.78,6,0.1,48.78
+303,CA-2017-930164,2021-02-21,2021-03-02,Standard Class,C-7985,Philip,Moss,Consumer,United States,New William,Arizona,25791,West,P-35142,Technology,Phones,Phones - Instead,932.13,8,0.4,85.11
+304,CA-2017-454110,2024-01-09,2024-01-19,Second Class,C-9510,Crystal,Lynch,Consumer,United States,West Stevenmouth,Utah,22359,West,P-68948,Office Supplies,Art,Art - Position,1869.24,3,0.1,598.88
+305,CA-2023-667020,2024-07-27,2024-08-06,Second Class,C-1725,Leslie,Gallagher,Corporate,United States,Traceyland,North Dakota,11622,Central,P-81001,Technology,Copiers,Copiers - Easy,1630.82,1,0.2,112.11
+306,CA-2022-583910,2021-12-09,2021-12-15,Second Class,C-3264,Carrie,Walker,Corporate,United States,West James,Arizona,72169,Central,P-37855,Technology,Accessories,Accessories - Program,1527.98,10,0.0,142.66
+307,CA-2016-460463,2023-11-11,2023-11-13,First Class,C-6693,Rhonda,Woods,Corporate,United States,Thomasside,Idaho,52280,West,P-51447,Technology,Phones,Phones - Early,981.92,10,0.0,219.87
+308,CA-2015-138579,2021-02-27,2021-03-07,First Class,C-5719,Robert,Daugherty,Consumer,United States,Hillview,Nevada,46687,Central,P-47491,Technology,Copiers,Copiers - Weight,690.9,7,0.2,-34.07
+309,CA-2023-390634,2021-07-27,2021-08-03,Second Class,C-1045,Elizabeth,Liu,Consumer,United States,Hillshire,Ohio,30372,South,P-38041,Furniture,Chairs,Chairs - Chance,1579.23,4,0.1,117.66
+310,CA-2016-302832,2024-12-09,2024-12-18,First Class,C-7543,Jennifer,Edwards,Consumer,United States,Garciastad,Louisiana,43361,South,P-78139,Furniture,Furnishings,Furnishings - Couple,1711.45,7,0.1,430.82
+311,CA-2017-525320,2024-12-01,2024-12-04,First Class,C-3623,Melanie,Campbell,Corporate,United States,Kellymouth,Hawaii,89857,South,P-14784,Furniture,Bookcases,Bookcases - Prove,1097.95,8,0.1,-78.31
+312,CA-2023-651131,2022-11-22,2022-11-29,Second Class,C-5293,Matthew,White,Consumer,United States,Wesleyport,Alabama,53650,Central,P-38908,Office Supplies,Storage,Storage - Worry,927.25,4,0.0,-49.25
+313,CA-2022-737565,2025-02-21,2025-03-02,Second Class,C-2885,Paula,Robertson,Home Office,United States,Teresachester,Maine,43349,Central,P-65235,Technology,Copiers,Copiers - Big,42.41,4,0.0,-4.83
+314,CA-2022-850555,2020-10-21,2020-10-28,Same Day,C-9744,Kathy,Stephens,Corporate,United States,Lake Gabriel,Alabama,28030,Central,P-19876,Technology,Machines,Machines - Go,566.16,3,0.4,127.89
+315,CA-2021-855778,2025-08-26,2025-08-31,Second Class,C-1801,Samantha,Shaw,Consumer,United States,West Leahburgh,North Dakota,45465,East,P-36635,Technology,Phones,Phones - Stuff,1125.56,3,0.0,-90.46
+316,CA-2018-897617,2025-05-21,2025-05-27,First Class,C-9616,James,Butler,Consumer,United States,New Tylerville,South Carolina,97605,Central,P-25971,Furniture,Furnishings,Furnishings - Food,1891.77,6,0.0,496.05
+317,CA-2023-171062,2021-04-12,2021-04-15,Standard Class,C-8356,Troy,Dean,Consumer,United States,West Kelly,Georgia,89749,West,P-90479,Office Supplies,Binders,Binders - Agent,774.28,4,0.3,53.68
+318,CA-2022-286076,2024-07-08,2024-07-09,Standard Class,C-3020,Laura,Reyes,Corporate,United States,South William,New Hampshire,99832,East,P-62632,Office Supplies,Art,Art - Drop,1651.78,3,0.2,311.55
+319,CA-2018-522004,2023-01-04,2023-01-09,First Class,C-7594,Catherine,Jones,Corporate,United States,Port Haileyhaven,Wyoming,48150,Central,P-34472,Office Supplies,Storage,Storage - Economy,1689.39,8,0.0,177.83
+320,CA-2019-238831,2024-12-09,2024-12-10,First Class,C-7012,Thomas,Perez,Home Office,United States,West Donald,Arkansas,75747,West,P-80942,Office Supplies,Art,Art - Fine,1645.33,4,0.0,-207.13
+321,CA-2019-898046,2020-12-25,2020-12-30,Second Class,C-6167,Lindsey,Richardson,Home Office,United States,Jacobhaven,South Carolina,89821,East,P-33552,Technology,Phones,Phones - Also,1155.95,4,0.4,275.68
+322,CA-2023-533798,2022-10-03,2022-10-11,Standard Class,C-3965,Connie,Pennington,Home Office,United States,Christinetown,Mississippi,24403,Central,P-94067,Furniture,Furnishings,Furnishings - Class,541.91,10,0.3,28.54
+323,CA-2021-596946,2022-05-22,2022-05-24,Standard Class,C-7961,Karen,Graham,Corporate,United States,East Nathan,Maryland,40680,Central,P-57784,Furniture,Tables,Tables - A,229.96,9,0.4,-20.1
+324,CA-2021-923935,2022-12-27,2023-01-04,Standard Class,C-3128,Tonya,Brown,Consumer,United States,Alihaven,Idaho,14590,West,P-26417,Furniture,Chairs,Chairs - Design,462.39,5,0.1,-12.62
+325,CA-2018-614518,2021-12-14,2021-12-17,Second Class,C-3734,Gary,Herrera,Corporate,United States,Port Kristinland,Iowa,32785,South,P-85804,Office Supplies,Paper,Paper - Likely,683.48,9,0.0,2.13
+326,CA-2022-861226,2023-04-06,2023-04-07,Standard Class,C-5267,Daniel,Huff,Corporate,United States,Martinport,Kansas,75091,South,P-70546,Furniture,Chairs,Chairs - Produce,501.18,1,0.3,111.62
+327,CA-2021-802958,2024-02-27,2024-03-01,Second Class,C-5931,Emily,Frost,Consumer,United States,Nicoleside,Alabama,47059,West,P-37123,Furniture,Bookcases,Bookcases - Bit,103.42,5,0.0,-3.22
+328,CA-2017-871070,2021-11-08,2021-11-18,Same Day,C-2576,Haley,Ward,Corporate,United States,Lake Suzanne,Washington,20476,Central,P-44917,Furniture,Tables,Tables - Expert,771.3,9,0.0,55.97
+329,CA-2019-398311,2024-11-20,2024-11-27,Same Day,C-1301,Mark,Johnson,Home Office,United States,Grayburgh,Vermont,08155,West,P-92206,Office Supplies,Appliances,Appliances - Close,1534.6,7,0.1,-132.11
+330,CA-2015-252695,2025-02-02,2025-02-07,Second Class,C-2179,Mary,Fuller,Corporate,United States,Batesfort,Delaware,68256,Central,P-39252,Office Supplies,Binders,Binders - She,1779.35,7,0.0,350.3
+331,CA-2022-252856,2025-05-04,2025-05-05,Standard Class,C-8878,Carol,Brown,Corporate,United States,Port Emmashire,Indiana,67162,Central,P-38123,Office Supplies,Appliances,Appliances - Believe,139.42,9,0.3,40.93
+332,CA-2021-404088,2021-01-21,2021-01-23,First Class,C-8007,Joseph,Phillips,Consumer,United States,Zamorashire,New York,95153,South,P-60719,Furniture,Chairs,Chairs - Want,1600.81,6,0.1,497.64
+333,CA-2015-279861,2024-03-26,2024-03-28,Same Day,C-1738,Marie,Knox,Home Office,United States,Port Chelsea,Arkansas,30999,East,P-44449,Furniture,Furnishings,Furnishings - Page,1282.7,8,0.1,-150.05
+334,CA-2018-358992,2025-02-07,2025-02-14,Standard Class,C-4392,Angela,Chan,Corporate,United States,Ericfort,North Carolina,47504,West,P-90894,Office Supplies,Art,Art - According,1750.69,2,0.1,-58.92
+335,CA-2023-705888,2025-05-17,2025-05-27,Standard Class,C-6612,Shannon,Chung,Home Office,United States,Port Alicia,Georgia,35856,Central,P-71351,Office Supplies,Appliances,Appliances - Best,1271.01,3,0.1,286.31
+336,CA-2023-547045,2025-05-03,2025-05-07,Second Class,C-8218,Eric,Norman,Home Office,United States,Josephfort,Nebraska,43381,Central,P-64512,Technology,Machines,Machines - Well,201.62,6,0.1,-1.32
+337,CA-2020-643307,2023-02-24,2023-02-26,Standard Class,C-6615,Diane,Rodriguez,Home Office,United States,East Douglasfort,Mississippi,94315,West,P-97789,Technology,Machines,Machines - Certain,1812.03,7,0.3,358.74
+338,CA-2020-492789,2023-03-30,2023-04-04,First Class,C-9731,Gabriella,Johnson,Home Office,United States,New Albert,Montana,53880,West,P-25398,Office Supplies,Storage,Storage - Seat,861.28,10,0.2,-46.63
+339,CA-2019-143173,2023-04-26,2023-05-04,Second Class,C-5068,Matthew,Fowler,Corporate,United States,Port Austin,California,19239,West,P-19027,Office Supplies,Storage,Storage - Which,1491.31,4,0.1,190.42
+340,CA-2019-831474,2021-01-21,2021-01-25,Standard Class,C-5300,Tyler,Rodriguez,Home Office,United States,Christopherville,New Mexico,44571,East,P-64416,Furniture,Furnishings,Furnishings - Who,530.3,10,0.1,-36.51
+341,CA-2018-224890,2025-09-04,2025-09-06,First Class,C-2545,Stephanie,Bell,Corporate,United States,Barrland,Florida,57685,East,P-15484,Technology,Machines,Machines - Talk,1984.02,10,0.4,-271.01
+342,CA-2015-766859,2023-05-12,2023-05-15,Second Class,C-2363,Martha,Russell,Home Office,United States,Amyfort,Illinois,82883,South,P-92521,Technology,Copiers,Copiers - Black,1022.72,9,0.1,14.49
+343,CA-2020-394297,2024-04-13,2024-04-14,Second Class,C-9217,Christopher,Lewis,Consumer,United States,Lake Kelsey,Ohio,40496,East,P-81811,Technology,Machines,Machines - Several,830.81,2,0.0,27.29
+344,CA-2018-453434,2024-02-06,2024-02-09,First Class,C-8370,Amy,Wolfe,Home Office,United States,North Reneeburgh,Florida,29493,Central,P-30179,Technology,Machines,Machines - Stock,1762.58,1,0.2,252.62
+345,CA-2019-302649,2021-07-25,2021-07-26,Second Class,C-6982,Elizabeth,Potter,Home Office,United States,North Sara,Missouri,88407,East,P-35287,Furniture,Tables,Tables - Free,1938.17,6,0.0,195.3
+346,CA-2018-806039,2023-06-05,2023-06-13,Standard Class,C-4892,Charles,Moran,Home Office,United States,Montgomeryfurt,Montana,70627,South,P-63486,Technology,Accessories,Accessories - Little,374.76,5,0.2,-3.98
+347,CA-2022-570480,2021-01-12,2021-01-14,Second Class,C-1849,Deborah,Phillips,Home Office,United States,West Joshua,Georgia,05717,West,P-19882,Office Supplies,Art,Art - Response,825.25,6,0.1,19.54
+348,CA-2020-684962,2023-01-15,2023-01-21,First Class,C-4374,Misty,Santos,Corporate,United States,South Evan,Vermont,01484,West,P-23168,Technology,Copiers,Copiers - Dark,236.62,3,0.3,55.02
+349,CA-2019-640251,2021-01-27,2021-01-28,First Class,C-3658,Laura,Johnson,Consumer,United States,Mariafurt,Utah,28079,Central,P-18197,Office Supplies,Binders,Binders - Control,1552.01,5,0.4,-201.8
+350,CA-2023-122195,2021-05-04,2021-05-11,Second Class,C-6765,Tara,Zamora,Corporate,United States,Leehaven,Ohio,59054,South,P-61684,Technology,Accessories,Accessories - Value,948.38,5,0.0,97.15
+351,CA-2015-193559,2023-02-20,2023-02-27,First Class,C-5363,Carmen,Morrison,Home Office,United States,New Brittanyside,Washington,04962,West,P-20347,Technology,Machines,Machines - While,1026.24,6,0.0,242.13
+352,CA-2021-226260,2020-11-08,2020-11-15,Second Class,C-4574,Joseph,White,Home Office,United States,Tracyborough,Delaware,41089,Central,P-30391,Office Supplies,Appliances,Appliances - Too,787.93,9,0.1,1.26
+353,CA-2015-944639,2022-10-02,2022-10-03,First Class,C-7766,Meghan,Jones,Home Office,United States,Petersmouth,Oregon,35590,East,P-27191,Technology,Accessories,Accessories - Something,1090.81,4,0.0,-15.14
+354,CA-2022-983124,2022-03-04,2022-03-13,Standard Class,C-8094,Ricky,Vasquez,Home Office,United States,Brownstad,Mississippi,39914,West,P-38522,Technology,Machines,Machines - Name,928.45,1,0.3,165.95
+355,CA-2018-115325,2023-12-13,2023-12-16,First Class,C-4930,Gabriel,Larson,Consumer,United States,Port Meganhaven,Virginia,67316,South,P-39522,Technology,Machines,Machines - Radio,1353.72,3,0.0,292.8
+356,CA-2019-121656,2021-06-13,2021-06-20,Second Class,C-2145,Kristin,Mays,Home Office,United States,East Diana,Oklahoma,52273,Central,P-28716,Office Supplies,Storage,Storage - One,1207.04,10,0.4,342.04
+357,CA-2022-476623,2023-03-15,2023-03-17,Standard Class,C-9432,Catherine,Reed,Consumer,United States,Lake Julie,Indiana,51129,Central,P-19441,Technology,Phones,Phones - Travel,1531.59,10,0.3,499.35
+358,CA-2018-835306,2021-01-19,2021-01-23,Standard Class,C-2640,Amy,Jones,Consumer,United States,Lake Coreytown,Arkansas,65758,South,P-63259,Technology,Phones,Phones - Town,573.13,8,0.0,-17.09
+359,CA-2020-916007,2025-07-25,2025-08-04,Second Class,C-3450,Michael,Johnson,Corporate,United States,Port Spencer,Mississippi,15181,West,P-53251,Technology,Accessories,Accessories - Return,505.06,10,0.3,-0.38
+360,CA-2023-688555,2022-11-01,2022-11-09,Second Class,C-9037,Melissa,Smith,Corporate,United States,South Jesse,Illinois,61370,Central,P-39118,Technology,Phones,Phones - Institution,595.34,1,0.2,172.52
+361,CA-2021-318926,2021-04-20,2021-04-28,Second Class,C-1771,Thomas,Smith,Corporate,United States,Lake Rebecca,Washington,71584,South,P-81886,Technology,Phones,Phones - Give,968.05,6,0.3,-138.05
+362,CA-2017-369105,2022-01-30,2022-02-04,Standard Class,C-8990,Mary,Frank,Home Office,United States,Kimberlyhaven,Kansas,71645,West,P-39250,Office Supplies,Art,Art - Race,1387.93,5,0.1,289.93
+363,CA-2015-141974,2025-06-03,2025-06-10,Same Day,C-4122,Roberto,Cain,Consumer,United States,Ravenville,North Carolina,58486,Central,P-31539,Office Supplies,Appliances,Appliances - Staff,445.87,5,0.4,125.66
+364,CA-2020-787561,2022-01-19,2022-01-26,Standard Class,C-8412,Samantha,Downs,Corporate,United States,Port Joshuaton,North Carolina,23248,South,P-15816,Technology,Phones,Phones - Knowledge,841.96,9,0.0,254.8
+365,CA-2017-139843,2021-09-03,2021-09-08,Standard Class,C-6199,Michele,Anderson,Consumer,United States,Meltonton,Michigan,69063,Central,P-83466,Office Supplies,Paper,Paper - Next,1485.91,6,0.1,215.24
+366,CA-2016-454791,2024-03-17,2024-03-19,Standard Class,C-9049,Brandon,Diaz,Consumer,United States,Meganshire,Mississippi,48473,East,P-46678,Office Supplies,Art,Art - Perhaps,747.75,6,0.3,171.64
+367,CA-2023-214841,2024-02-15,2024-02-19,First Class,C-2977,Crystal,Gates,Consumer,United States,East Jordan,Montana,39687,East,P-17270,Office Supplies,Appliances,Appliances - Day,1846.42,1,0.1,443.84
+368,CA-2022-988333,2024-06-05,2024-06-08,Same Day,C-3811,Catherine,Johnson,Consumer,United States,New Joshua,Florida,12493,West,P-32972,Furniture,Chairs,Chairs - Everybody,364.52,4,0.3,119.34
+369,CA-2019-570333,2024-03-29,2024-04-01,Standard Class,C-2012,Michael,Moreno,Corporate,United States,Lisaport,Iowa,58972,Central,P-83820,Technology,Copiers,Copiers - Detail,1290.58,1,0.3,19.13
+370,CA-2020-700165,2021-02-06,2021-02-15,Standard Class,C-3004,Blake,Jones,Home Office,United States,Taylorstad,Maryland,40717,South,P-41535,Technology,Accessories,Accessories - Beautiful,193.98,8,0.0,29.91
+371,CA-2018-287604,2025-08-09,2025-08-16,Standard Class,C-7679,Matthew,Jimenez,Home Office,United States,New Damon,Indiana,67853,West,P-14434,Furniture,Furnishings,Furnishings - Fund,720.38,7,0.2,107.46
+372,CA-2015-789889,2021-07-26,2021-07-30,Second Class,C-1406,Paige,Maldonado,Corporate,United States,South Jessicachester,New York,77966,East,P-52045,Furniture,Bookcases,Bookcases - Picture,1055.02,5,0.4,345.99
+373,CA-2019-952124,2025-06-25,2025-07-02,Same Day,C-7176,Anita,Yates,Corporate,United States,East Jennifer,Alabama,74622,East,P-54123,Office Supplies,Appliances,Appliances - These,1376.86,1,0.3,54.9
+374,CA-2022-392799,2023-07-29,2023-08-03,Second Class,C-1540,Jonathan,Buck,Consumer,United States,Hughesport,Virginia,37726,Central,P-35234,Furniture,Tables,Tables - Safe,318.93,7,0.2,102.2
+375,CA-2018-799844,2023-07-13,2023-07-18,Same Day,C-6274,Derek,Morse,Consumer,United States,Kennethborough,Iowa,81786,South,P-84903,Furniture,Chairs,Chairs - Through,1925.59,10,0.1,389.12
+376,CA-2019-955459,2021-06-05,2021-06-13,Same Day,C-4270,Hannah,Rogers,Consumer,United States,West Markview,Colorado,66869,West,P-12766,Technology,Machines,Machines - Hospital,1705.32,10,0.0,456.02
+377,CA-2019-986969,2025-03-25,2025-03-31,Second Class,C-8307,Kathy,Freeman,Home Office,United States,South Daniel,Maryland,02254,South,P-10624,Furniture,Furnishings,Furnishings - Itself,551.46,4,0.4,3.67
+378,CA-2018-469214,2024-06-24,2024-07-04,Second Class,C-3025,Amanda,Lopez,Consumer,United States,Cameronville,Maryland,91414,West,P-19814,Technology,Machines,Machines - Participant,372.09,7,0.0,105.56
+379,CA-2018-741907,2020-09-27,2020-09-30,First Class,C-2544,Carrie,Gibson,Consumer,United States,Russellburgh,Rhode Island,70957,South,P-36020,Technology,Copiers,Copiers - Teacher,79.54,3,0.0,26.9
+380,CA-2018-812302,2024-02-24,2024-03-02,First Class,C-4195,Brenda,Roy,Consumer,United States,Perezfort,Texas,46913,South,P-30672,Technology,Machines,Machines - Evening,1153.02,2,0.3,372.91
+381,CA-2020-323056,2024-03-02,2024-03-09,Standard Class,C-7775,Donald,Mcfarland,Corporate,United States,East Michelle,Utah,05345,West,P-56581,Technology,Machines,Machines - Any,666.79,9,0.2,140.71
+382,CA-2016-217540,2021-10-02,2021-10-10,Standard Class,C-3029,Gabriel,Huynh,Corporate,United States,Reedport,Rhode Island,01523,West,P-37815,Technology,Phones,Phones - Arrive,1868.6,3,0.4,-144.51
+383,CA-2021-944605,2021-08-11,2021-08-20,Standard Class,C-9274,Patrick,Parrish,Corporate,United States,Emilyborough,Delaware,10438,South,P-87504,Furniture,Furnishings,Furnishings - Others,1283.08,10,0.1,29.48
+384,CA-2015-361106,2022-05-15,2022-05-19,Standard Class,C-8862,Allen,Torres,Consumer,United States,Watsonbury,Iowa,94176,East,P-51182,Office Supplies,Storage,Storage - Attention,264.68,3,0.1,-5.0
+385,CA-2017-286977,2022-12-07,2022-12-15,Standard Class,C-6118,Adam,Dominguez,Corporate,United States,North Brandi,Michigan,35467,East,P-62795,Office Supplies,Binders,Binders - Hospital,1136.16,5,0.4,12.68
+386,CA-2018-535397,2023-07-31,2023-08-01,Same Day,C-3307,Joel,Patterson,Consumer,United States,Port Savannah,Texas,55153,West,P-45131,Office Supplies,Paper,Paper - Car,941.04,2,0.4,182.98
+387,CA-2021-104324,2024-05-29,2024-06-04,Second Class,C-9158,Cameron,Henry,Home Office,United States,Brandonport,Colorado,64010,East,P-78747,Furniture,Furnishings,Furnishings - Involve,740.58,6,0.3,28.83
+388,CA-2021-572616,2023-07-01,2023-07-04,First Class,C-5854,Craig,Bowman,Home Office,United States,South David,Iowa,86378,East,P-34499,Furniture,Bookcases,Bookcases - Describe,1929.61,10,0.4,476.62
+389,CA-2018-546991,2024-10-02,2024-10-09,First Class,C-2357,Linda,Walters,Corporate,United States,Taraside,Nebraska,08055,Central,P-62537,Furniture,Furnishings,Furnishings - Response,667.71,1,0.0,152.32
+390,CA-2021-566443,2023-12-10,2023-12-16,Second Class,C-1215,Steven,Floyd,Corporate,United States,South Laurieland,Delaware,71790,East,P-16559,Technology,Copiers,Copiers - Stand,865.67,8,0.2,289.32
+391,CA-2016-932883,2025-02-18,2025-02-28,Same Day,C-6430,Kevin,Shelton,Home Office,United States,Edwardstown,West Virginia,17631,West,P-49046,Technology,Accessories,Accessories - Move,1941.67,2,0.1,337.7
+392,CA-2020-783797,2022-03-23,2022-03-29,Second Class,C-1951,Kimberly,Baxter,Home Office,United States,Smithberg,Utah,58986,Central,P-64060,Office Supplies,Binders,Binders - Develop,390.69,5,0.3,-8.4
+393,CA-2017-583240,2021-04-07,2021-04-12,Second Class,C-2408,Shannon,Miller,Consumer,United States,Rachelstad,Hawaii,06877,East,P-88041,Technology,Copiers,Copiers - Beautiful,1375.95,5,0.2,161.26
+394,CA-2016-603172,2022-11-19,2022-11-23,Standard Class,C-7849,Jesus,Fields,Consumer,United States,South Jason,Wyoming,47731,South,P-67133,Technology,Accessories,Accessories - Imagine,1334.77,1,0.2,40.23
+395,CA-2022-680993,2025-07-20,2025-07-25,Same Day,C-3951,Lori,Conner,Corporate,United States,East Wendy,Missouri,12710,East,P-34700,Furniture,Tables,Tables - Wonder,108.77,5,0.3,-12.06
+396,CA-2018-752273,2022-08-24,2022-08-31,Standard Class,C-6488,Charles,Hoffman,Consumer,United States,Lindamouth,Utah,24279,West,P-59835,Office Supplies,Art,Art - Which,1215.31,3,0.1,121.61
+397,CA-2021-843937,2023-06-30,2023-07-03,Same Day,C-7855,Heather,Pugh,Home Office,United States,New Cameronside,Utah,83529,Central,P-34025,Office Supplies,Art,Art - Bag,44.99,5,0.0,15.51
+398,CA-2017-241044,2024-07-16,2024-07-19,Second Class,C-6076,Katherine,Stephens,Corporate,United States,Josephbury,Virginia,94653,South,P-42134,Furniture,Chairs,Chairs - Scene,1866.95,7,0.0,179.93
+399,CA-2016-386088,2021-01-13,2021-01-21,First Class,C-3967,Michelle,Hall,Corporate,United States,Powellborough,Illinois,48437,West,P-10373,Furniture,Tables,Tables - Window,795.61,3,0.2,147.5
+400,CA-2021-679226,2021-02-07,2021-02-17,First Class,C-4066,Chad,Houston,Corporate,United States,Carmenchester,Minnesota,65815,Central,P-47447,Technology,Accessories,Accessories - Professor,1918.16,4,0.1,648.04
+401,CA-2015-566419,2021-05-06,2021-05-14,First Class,C-8165,Nancy,Owens,Home Office,United States,Lake Hannah,Mississippi,67536,West,P-40418,Office Supplies,Art,Art - Writer,214.72,9,0.4,-1.07
+402,CA-2015-577956,2025-03-03,2025-03-08,Same Day,C-8206,Melanie,Rodgers,Home Office,United States,Gregoryshire,West Virginia,04294,Central,P-40441,Technology,Accessories,Accessories - Free,829.37,1,0.0,130.78
+403,CA-2016-954623,2022-07-22,2022-08-01,Same Day,C-4982,Tiffany,Cooper,Corporate,United States,East Christinaburgh,Oklahoma,89235,Central,P-96160,Technology,Phones,Phones - Man,1176.25,2,0.4,178.45
+404,CA-2015-410229,2022-01-27,2022-02-04,First Class,C-6204,Marcus,Newman,Consumer,United States,Fryeburgh,Alaska,06520,South,P-66441,Office Supplies,Art,Art - Door,980.99,10,0.2,244.02
+405,CA-2019-631468,2020-10-07,2020-10-15,Second Class,C-5811,Deborah,Campos,Home Office,United States,Benjaminside,Hawaii,87064,East,P-29699,Technology,Machines,Machines - Gun,1014.28,10,0.3,231.01
+406,CA-2018-282699,2023-10-22,2023-10-28,Standard Class,C-7045,Angela,Curtis,Home Office,United States,Wagnerside,Massachusetts,82663,South,P-81817,Office Supplies,Paper,Paper - Seat,34.01,1,0.3,9.11
+407,CA-2019-281405,2021-07-13,2021-07-14,Same Day,C-6383,Taylor,Mcintosh,Corporate,United States,Harrisland,Nebraska,30745,West,P-60032,Technology,Machines,Machines - Sure,339.45,4,0.3,25.69
+408,CA-2022-767388,2022-03-18,2022-03-28,Second Class,C-1929,Olivia,Fleming,Home Office,United States,New Jillianmouth,Connecticut,78276,South,P-71056,Furniture,Tables,Tables - Bit,416.31,7,0.0,65.37
+409,CA-2018-917343,2021-07-15,2021-07-21,First Class,C-9269,William,Taylor,Consumer,United States,Christianside,Ohio,52199,East,P-91789,Furniture,Bookcases,Bookcases - Town,1002.54,7,0.3,-22.86
+410,CA-2016-383992,2023-10-12,2023-10-20,First Class,C-6686,Kyle,Velazquez,Consumer,United States,Bennettstad,Pennsylvania,30390,West,P-85502,Technology,Accessories,Accessories - Government,867.72,3,0.0,-96.59
+411,CA-2022-833140,2022-05-15,2022-05-16,Second Class,C-2581,Ashley,Hensley,Corporate,United States,Hughesberg,North Carolina,51837,Central,P-57559,Furniture,Chairs,Chairs - Still,1641.33,5,0.0,25.09
+412,CA-2016-968523,2021-05-01,2021-05-11,First Class,C-8231,Julie,Robinson,Consumer,United States,Lake Ashleyberg,Alabama,48070,West,P-53601,Technology,Accessories,Accessories - Edge,67.63,6,0.0,-10.11
+413,CA-2023-582326,2020-10-10,2020-10-18,First Class,C-5776,Jose,Miller,Home Office,United States,Kristaton,Wyoming,27734,East,P-61189,Office Supplies,Binders,Binders - Their,533.44,7,0.4,133.45
+414,CA-2022-467510,2025-02-23,2025-02-26,Standard Class,C-4358,Brian,Johnson,Home Office,United States,New Melissa,Kansas,11882,Central,P-93512,Furniture,Furnishings,Furnishings - Thank,382.49,1,0.4,-23.78
+415,CA-2016-525066,2022-08-06,2022-08-16,Same Day,C-4124,Scott,Hines,Home Office,United States,New Adamburgh,Colorado,96196,East,P-93050,Office Supplies,Art,Art - Strong,1704.36,6,0.3,-236.62
+416,CA-2017-728388,2022-07-30,2022-08-07,First Class,C-8578,Tommy,Singh,Corporate,United States,South Mitchellberg,Indiana,66254,South,P-31748,Furniture,Tables,Tables - Quality,182.9,2,0.2,44.93
+417,CA-2022-488553,2023-06-09,2023-06-14,Standard Class,C-8102,Stacey,Walker,Corporate,United States,East Jennifer,West Virginia,11724,East,P-68689,Technology,Machines,Machines - Difficult,1609.68,2,0.3,548.69
+418,CA-2018-123073,2023-08-25,2023-09-01,Second Class,C-5251,David,Carter,Corporate,United States,North Davidmouth,Alabama,92523,East,P-10617,Technology,Phones,Phones - Matter,1244.58,4,0.3,376.52
+419,CA-2016-681748,2020-11-01,2020-11-08,Same Day,C-6769,Scott,Shaffer,Corporate,United States,Bobbychester,Rhode Island,28083,East,P-21880,Technology,Copiers,Copiers - Music,1565.32,3,0.1,426.84
+420,CA-2016-556286,2024-10-04,2024-10-05,Standard Class,C-9222,Ashley,Bishop,Consumer,United States,Williamport,California,62852,Central,P-87475,Furniture,Tables,Tables - Season,1298.8,4,0.4,44.45
+421,CA-2018-416038,2023-09-24,2023-09-25,First Class,C-4698,Nicole,Haynes,Home Office,United States,Rosalesland,Montana,25233,Central,P-15568,Technology,Machines,Machines - Ball,931.64,6,0.2,104.77
+422,CA-2015-103691,2022-12-25,2022-12-26,First Class,C-1549,Brent,Mann,Consumer,United States,Kendrachester,Georgia,68248,East,P-55832,Technology,Machines,Machines - Leg,258.19,2,0.3,-17.47
+423,CA-2023-869145,2024-06-08,2024-06-09,First Class,C-3247,Amy,Martin,Consumer,United States,South Joberg,Arizona,62391,West,P-10619,Technology,Copiers,Copiers - Respond,811.55,9,0.1,263.97
+424,CA-2021-704497,2021-01-30,2021-01-31,Second Class,C-1410,Brooke,Mcbride,Consumer,United States,Hornemouth,North Dakota,51289,East,P-40345,Furniture,Furnishings,Furnishings - Similar,1159.27,10,0.2,-90.08
+425,CA-2020-224988,2025-06-29,2025-07-09,Same Day,C-1757,Veronica,Palmer,Corporate,United States,Port Jeremiahborough,Arkansas,01057,East,P-16800,Technology,Accessories,Accessories - Improve,1207.76,8,0.4,-169.03
+426,CA-2016-662408,2021-08-03,2021-08-10,Standard Class,C-6897,Ariel,Shaffer,Home Office,United States,Geoffreyville,Connecticut,99574,Central,P-71045,Office Supplies,Appliances,Appliances - Degree,860.17,5,0.2,8.45
+427,CA-2019-701992,2024-11-12,2024-11-20,First Class,C-1707,Mary,Goodman,Corporate,United States,West Thomasmouth,Montana,12077,West,P-64873,Technology,Machines,Machines - Management,196.5,10,0.4,3.13
+428,CA-2023-405627,2022-01-07,2022-01-12,First Class,C-1393,Tina,Wright,Consumer,United States,New Lawrence,Iowa,82294,West,P-18909,Technology,Accessories,Accessories - Man,165.99,5,0.1,9.71
+429,CA-2017-212596,2022-01-07,2022-01-17,Standard Class,C-5203,Joshua,Larson,Home Office,United States,Lake Sheena,Alabama,08350,Central,P-44016,Furniture,Chairs,Chairs - Business,233.05,1,0.0,36.46
+430,CA-2015-370960,2023-03-25,2023-04-03,Same Day,C-1159,Justin,Crawford,Home Office,United States,Hudsonside,Kentucky,62208,South,P-69502,Technology,Copiers,Copiers - Laugh,1890.56,10,0.0,5.31
+431,CA-2017-752720,2022-05-01,2022-05-10,Same Day,C-5098,Brandon,Golden,Corporate,United States,Alexanderhaven,Arizona,45806,Central,P-22997,Office Supplies,Appliances,Appliances - Different,1708.75,2,0.4,-170.57
+432,CA-2018-883909,2024-11-13,2024-11-19,Standard Class,C-8917,Melanie,Woodward,Home Office,United States,New Kimberly,Iowa,35199,South,P-19661,Technology,Machines,Machines - Feel,1001.85,1,0.0,28.51
+433,CA-2019-475784,2024-07-02,2024-07-07,Standard Class,C-2152,Jennifer,Weiss,Consumer,United States,New Karla,Colorado,00847,Central,P-92276,Furniture,Bookcases,Bookcases - Win,56.64,10,0.2,5.61
+434,CA-2021-586723,2023-12-27,2023-12-31,Same Day,C-4828,Danielle,Lee,Consumer,United States,Melanieshire,Mississippi,94569,East,P-84733,Furniture,Bookcases,Bookcases - Next,1302.44,8,0.4,-16.09
+435,CA-2023-412104,2024-08-16,2024-08-26,Standard Class,C-4839,Kelli,Howard,Corporate,United States,Reedland,Vermont,84711,Central,P-12242,Technology,Machines,Machines - Station,1055.64,9,0.3,103.05
+436,CA-2019-672073,2024-04-17,2024-04-19,Second Class,C-7557,Tina,Rhodes,Home Office,United States,Davidport,Michigan,47212,Central,P-95074,Furniture,Bookcases,Bookcases - Argue,1366.88,1,0.3,-122.71
+437,CA-2020-903391,2023-10-02,2023-10-10,First Class,C-6415,Thomas,Mejia,Home Office,United States,Jeromeville,Utah,65796,West,P-72424,Technology,Machines,Machines - Happy,1350.57,6,0.3,-12.88
+438,CA-2019-293581,2025-04-13,2025-04-22,Same Day,C-2381,Sarah,Carpenter,Consumer,United States,Elizabethmouth,Vermont,93728,East,P-77624,Technology,Accessories,Accessories - Drop,671.95,1,0.3,-94.25
+439,CA-2022-942859,2023-08-15,2023-08-23,Same Day,C-2567,John,Hall,Consumer,United States,North Roberta,Georgia,93940,Central,P-91141,Office Supplies,Binders,Binders - Rise,923.54,1,0.2,112.43
+440,CA-2022-275128,2021-02-16,2021-02-23,First Class,C-8514,Paige,Meyer,Consumer,United States,Port Lawrencemouth,North Dakota,36700,West,P-64369,Office Supplies,Appliances,Appliances - Blood,1871.31,5,0.3,50.97
+441,CA-2021-410821,2020-09-26,2020-10-01,First Class,C-3690,Michelle,Anderson,Home Office,United States,Joshuahaven,Virginia,76591,West,P-62504,Technology,Phones,Phones - New,1494.72,2,0.1,-27.16
+442,CA-2017-667702,2024-11-11,2024-11-13,Second Class,C-4997,Taylor,Hansen,Home Office,United States,Michaelshire,Michigan,04422,West,P-38510,Furniture,Chairs,Chairs - Sort,448.32,2,0.1,87.93
+443,CA-2022-104904,2020-10-19,2020-10-21,Standard Class,C-6751,Veronica,Mclaughlin,Corporate,United States,West Lisamouth,Oklahoma,92775,Central,P-80870,Office Supplies,Storage,Storage - System,509.47,9,0.3,88.93
+444,CA-2022-156998,2022-06-27,2022-07-02,Standard Class,C-5128,George,Ortiz,Home Office,United States,Chadshire,Wisconsin,32903,East,P-39173,Office Supplies,Binders,Binders - Purpose,200.28,9,0.2,29.33
+445,CA-2015-787227,2023-03-08,2023-03-11,Same Day,C-7400,Destiny,Barnett,Corporate,United States,Wesleyshire,California,08449,South,P-27582,Furniture,Chairs,Chairs - Nice,589.4,1,0.3,-48.04
+446,CA-2022-312783,2024-01-20,2024-01-21,Second Class,C-1129,Kelly,Moore,Consumer,United States,Webershire,North Dakota,69275,West,P-61721,Furniture,Bookcases,Bookcases - Mother,1480.88,6,0.4,27.14
+447,CA-2021-270975,2024-10-09,2024-10-12,Standard Class,C-5825,Kiara,Taylor,Consumer,United States,North Amber,Utah,48809,Central,P-49300,Technology,Machines,Machines - Several,1785.43,1,0.1,20.24
+448,CA-2018-651372,2021-06-23,2021-06-27,Standard Class,C-8905,Brittney,Farmer,Consumer,United States,Port Donnaborough,Connecticut,08902,Central,P-33892,Furniture,Bookcases,Bookcases - Second,309.71,6,0.4,66.98
+449,CA-2021-379479,2022-04-02,2022-04-09,Standard Class,C-3376,Michael,Lester,Home Office,United States,Davidshire,North Dakota,13596,South,P-52817,Technology,Copiers,Copiers - Personal,483.59,7,0.2,118.64
+450,CA-2023-504457,2023-04-05,2023-04-13,Second Class,C-4044,Melissa,Mullen,Corporate,United States,North James,Illinois,61485,East,P-77186,Technology,Accessories,Accessories - Everyone,1290.25,4,0.0,295.72
+451,CA-2016-102814,2020-09-25,2020-10-04,Second Class,C-2777,Robert,Goodman,Corporate,United States,Trevorstad,Idaho,55789,West,P-32531,Furniture,Chairs,Chairs - Director,1744.3,5,0.2,1.18
+452,CA-2021-624234,2022-01-14,2022-01-19,Standard Class,C-6731,Briana,Holland,Corporate,United States,Brownfort,Maine,38159,East,P-69495,Office Supplies,Binders,Binders - Remember,753.48,8,0.4,46.69
+453,CA-2023-122615,2024-11-27,2024-12-02,First Class,C-9877,Jonathan,Mckenzie,Corporate,United States,Millshaven,Kansas,21795,East,P-31651,Office Supplies,Storage,Storage - Knowledge,58.99,1,0.2,-7.23
+454,CA-2017-695421,2025-06-14,2025-06-21,Standard Class,C-2720,Regina,Hicks,Corporate,United States,Coreyshire,Oregon,51337,West,P-14969,Office Supplies,Binders,Binders - Evening,1885.63,8,0.4,-74.84
+455,CA-2019-185051,2020-09-27,2020-10-03,First Class,C-5028,Adrienne,Newman,Home Office,United States,Kellymouth,Michigan,46029,East,P-50804,Technology,Copiers,Copiers - Partner,1651.97,1,0.3,73.77
+456,CA-2015-310523,2024-03-07,2024-03-16,Same Day,C-3276,Daniel,Simmons,Corporate,United States,South Jason,Washington,59428,Central,P-45192,Technology,Phones,Phones - Heavy,524.54,8,0.1,34.28
+457,CA-2016-583643,2025-04-19,2025-04-26,Same Day,C-3831,Mandy,Green,Home Office,United States,New Ryan,Kentucky,44233,South,P-73965,Technology,Phones,Phones - Religious,510.67,4,0.1,-13.9
+458,CA-2021-657259,2021-01-05,2021-01-13,Same Day,C-4623,Lisa,Fuller,Corporate,United States,Pattystad,Nevada,58643,West,P-12336,Furniture,Bookcases,Bookcases - International,573.17,6,0.0,-15.44
+459,CA-2015-670828,2024-03-13,2024-03-23,First Class,C-8976,Ariana,Myers,Corporate,United States,Port Mary,Indiana,75533,South,P-49882,Furniture,Chairs,Chairs - Final,735.48,5,0.3,220.57
+460,CA-2016-366808,2025-08-10,2025-08-16,Standard Class,C-5521,Anna,Bowen,Home Office,United States,Lake Gail,Florida,58917,East,P-93329,Furniture,Chairs,Chairs - Growth,1068.15,6,0.0,131.04
+461,CA-2021-122504,2022-02-11,2022-02-14,First Class,C-5389,Kimberly,Jones,Corporate,United States,Port Kaylaton,Texas,87342,West,P-48717,Technology,Machines,Machines - House,719.48,2,0.1,-51.08
+462,CA-2015-339934,2023-03-20,2023-03-26,Second Class,C-8527,Patricia,Lopez,Home Office,United States,Jenniferborough,Texas,42158,East,P-67669,Technology,Accessories,Accessories - Peace,1535.05,8,0.1,-117.08
+463,CA-2016-617918,2022-06-01,2022-06-07,Second Class,C-5547,Michelle,Turner,Consumer,United States,New Brianna,Colorado,74325,South,P-73148,Technology,Copiers,Copiers - Size,270.0,9,0.0,-27.72
+464,CA-2015-817821,2025-02-25,2025-03-07,Standard Class,C-9884,Elizabeth,Cooper,Corporate,United States,Jonesfort,Oklahoma,36041,Central,P-90420,Technology,Machines,Machines - Thing,539.68,2,0.2,-31.36
+465,CA-2017-487149,2021-11-13,2021-11-21,First Class,C-5294,Martin,Dominguez,Corporate,United States,Kimside,New Mexico,02924,Central,P-54354,Technology,Phones,Phones - Name,27.42,7,0.0,-1.1
+466,CA-2018-136825,2021-12-18,2021-12-23,First Class,C-2072,Antonio,Mayer,Corporate,United States,Lake Heather,New Jersey,74325,East,P-79039,Furniture,Chairs,Chairs - College,1561.39,3,0.0,-221.34
+467,CA-2022-832215,2021-11-25,2021-12-05,Same Day,C-6279,Susan,Davis,Corporate,United States,Emilytown,South Dakota,52724,West,P-57806,Office Supplies,Appliances,Appliances - Range,1254.26,2,0.2,128.65
+468,CA-2017-236250,2021-12-03,2021-12-10,Same Day,C-8531,Anthony,Cox,Consumer,United States,North Kimberlymouth,Georgia,65296,West,P-20830,Furniture,Tables,Tables - Citizen,390.86,1,0.3,40.89
+469,CA-2016-154834,2023-05-26,2023-06-03,Second Class,C-7801,Larry,Mckinney,Consumer,United States,East Lawrencehaven,Arizona,03534,East,P-17227,Technology,Machines,Machines - See,1758.3,5,0.2,-35.92
+470,CA-2019-510473,2024-03-20,2024-03-27,First Class,C-1391,Jacob,Grimes,Consumer,United States,Brownton,Vermont,21373,Central,P-10094,Furniture,Tables,Tables - Result,625.14,3,0.4,37.32
+471,CA-2017-842745,2025-01-15,2025-01-21,First Class,C-6613,Kathy,Mcpherson,Home Office,United States,Lake Charlesland,Massachusetts,03201,East,P-16908,Office Supplies,Art,Art - Factor,1075.12,8,0.3,39.91
+472,CA-2016-928507,2021-01-23,2021-01-25,Same Day,C-6544,Gabrielle,Hall,Corporate,United States,Danshire,Iowa,30245,East,P-74666,Technology,Accessories,Accessories - Him,797.63,2,0.1,-27.72
+473,CA-2021-677830,2025-09-12,2025-09-17,Second Class,C-6865,Stephanie,George,Home Office,United States,Skinnerland,South Carolina,04435,Central,P-39536,Technology,Copiers,Copiers - Million,1900.08,2,0.4,-83.96
+474,CA-2022-302131,2023-10-08,2023-10-14,Same Day,C-7376,George,Thomas,Home Office,United States,North Wayneville,Illinois,25061,South,P-83699,Technology,Phones,Phones - In,1663.4,8,0.4,-77.99
+475,CA-2015-377588,2024-04-13,2024-04-23,Same Day,C-8478,Melissa,Atkins,Home Office,United States,South Howardland,Oregon,23351,East,P-67106,Furniture,Tables,Tables - Property,218.35,5,0.4,-18.64
+476,CA-2021-204155,2022-06-28,2022-07-03,Standard Class,C-8268,Mary,Kennedy,Corporate,United States,Martinchester,Nevada,20302,Central,P-10731,Furniture,Chairs,Chairs - Like,1112.88,7,0.0,304.87
+477,CA-2021-823933,2024-08-18,2024-08-24,Same Day,C-5045,Gabriel,Glover,Home Office,United States,Christopherburgh,Alaska,90937,West,P-37433,Technology,Phones,Phones - Successful,524.51,9,0.1,58.12
+478,CA-2015-820238,2023-09-17,2023-09-19,Same Day,C-1206,Thomas,Taylor,Home Office,United States,Calebstad,Connecticut,83658,Central,P-39227,Office Supplies,Appliances,Appliances - Cup,857.99,10,0.3,-38.63
+479,CA-2018-686044,2021-12-03,2021-12-12,Same Day,C-8081,Ashley,Torres,Consumer,United States,East Troy,Rhode Island,70984,East,P-20131,Office Supplies,Appliances,Appliances - Institution,197.82,2,0.0,39.23
+480,CA-2021-165546,2022-11-11,2022-11-14,First Class,C-5158,Brian,Miller,Corporate,United States,West Nicolebury,Delaware,92869,Central,P-69202,Office Supplies,Binders,Binders - Bank,992.29,2,0.4,283.21
+481,CA-2016-235034,2024-11-10,2024-11-17,Standard Class,C-6341,Brianna,Wilson,Home Office,United States,Lake Garrettberg,Florida,43598,Central,P-28081,Office Supplies,Appliances,Appliances - Generation,1981.2,5,0.2,35.51
+482,CA-2018-714065,2024-04-30,2024-05-06,Same Day,C-6723,Ronald,Mendez,Consumer,United States,South Crystal,Washington,50722,Central,P-47254,Technology,Phones,Phones - Pretty,853.21,2,0.1,266.36
+483,CA-2015-652341,2025-06-07,2025-06-11,Same Day,C-8852,Johnny,Hardin,Home Office,United States,Kennethton,Maine,09898,East,P-60968,Office Supplies,Storage,Storage - Alone,1115.7,6,0.4,-91.06
+484,CA-2021-338961,2021-05-03,2021-05-09,Standard Class,C-7757,Morgan,Archer,Home Office,United States,Scottburgh,Oklahoma,34221,East,P-46492,Office Supplies,Appliances,Appliances - Room,1827.18,6,0.3,-100.77
+485,CA-2020-440267,2021-03-17,2021-03-19,Same Day,C-6368,Mary,Bryan,Consumer,United States,North David,Kentucky,26788,East,P-46566,Office Supplies,Paper,Paper - Agency,1257.87,4,0.3,58.84
+486,CA-2021-132251,2022-06-22,2022-06-25,First Class,C-1897,Diane,Green,Home Office,United States,Fergusonside,Virginia,75687,East,P-49039,Technology,Phones,Phones - Fish,1019.87,2,0.1,284.85
+487,CA-2021-900835,2023-07-20,2023-07-21,Same Day,C-1131,Shane,Wagner,Home Office,United States,East Jamesland,Pennsylvania,34737,West,P-69025,Technology,Machines,Machines - Can,1443.07,2,0.3,231.96
+488,CA-2021-905284,2024-11-23,2024-11-26,Same Day,C-3201,Cody,Ramirez,Corporate,United States,West Tiffanymouth,Alabama,46880,Central,P-81692,Technology,Accessories,Accessories - Parent,764.03,2,0.4,-91.33
+489,CA-2017-350617,2023-10-14,2023-10-22,Second Class,C-3612,Kelly,Dixon,Home Office,United States,New Diamondton,Wyoming,94730,Central,P-29640,Office Supplies,Art,Art - Sport,1251.19,1,0.1,-171.72
+490,CA-2021-827230,2024-09-03,2024-09-09,Same Day,C-3909,Steven,Sweeney,Corporate,United States,Emilyton,Illinois,91335,South,P-81875,Technology,Phones,Phones - Focus,811.31,8,0.1,68.2
+491,CA-2015-228203,2024-05-28,2024-06-03,Second Class,C-9917,Zachary,Ellis,Consumer,United States,West Richardbury,Michigan,56529,Central,P-24230,Office Supplies,Storage,Storage - General,1765.11,6,0.0,389.24
+492,CA-2023-665915,2025-03-05,2025-03-12,Standard Class,C-3471,Nicole,Waller,Consumer,United States,Port Raychester,Alaska,13069,East,P-59074,Office Supplies,Binders,Binders - Section,1686.79,1,0.3,237.59
+493,CA-2020-588923,2025-01-31,2025-02-03,Same Day,C-7019,Monica,Dawson,Home Office,United States,West Alexanderside,Connecticut,74896,East,P-72620,Technology,Phones,Phones - Until,1656.44,2,0.1,150.83
+494,CA-2018-883005,2022-11-24,2022-12-02,Standard Class,C-8827,Ariel,Robinson,Corporate,United States,Brianburgh,New Jersey,63461,Central,P-10702,Technology,Phones,Phones - Be,1308.28,8,0.1,79.42
+495,CA-2016-653607,2021-12-19,2021-12-28,Second Class,C-6247,Michael,Miller,Home Office,United States,West Jeanetteland,Michigan,90856,West,P-75741,Furniture,Chairs,Chairs - Cost,1370.5,5,0.3,472.09
+496,CA-2018-406159,2022-04-01,2022-04-02,First Class,C-4947,Melanie,Clayton,Corporate,United States,South Robert,Arizona,68509,South,P-73446,Technology,Machines,Machines - Fact,1352.28,4,0.4,-117.05
+497,CA-2017-429419,2024-07-14,2024-07-21,Standard Class,C-9404,Pamela,Pierce,Consumer,United States,North Dustinville,Indiana,88879,South,P-64276,Technology,Accessories,Accessories - Bad,1851.69,9,0.3,635.36
+498,CA-2023-700107,2025-05-16,2025-05-17,First Class,C-8562,Laura,May,Home Office,United States,Lake Jennifer,Minnesota,64757,Central,P-71544,Office Supplies,Storage,Storage - Price,1641.9,7,0.2,244.68
+499,CA-2021-624755,2023-07-04,2023-07-10,Standard Class,C-1218,Pamela,Walsh,Home Office,United States,Martinezmouth,Montana,15133,West,P-14308,Office Supplies,Binders,Binders - World,1430.02,9,0.4,403.14
+500,CA-2017-336088,2022-12-07,2022-12-09,Same Day,C-6162,Bryan,Reyes,Consumer,United States,South Glenn,Alaska,41591,East,P-74157,Office Supplies,Paper,Paper - Million,891.72,3,0.0,233.48
